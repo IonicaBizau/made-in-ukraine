@@ -67,7 +67,8 @@
           "[Scala](#scala)",
           "[Shell](#shell)",
           "[Swift](#swift)",
-          "[TeX](#tex)"
+          "[TeX](#tex)",
+          "[VimL](#viml)"
         ]
       },
       {
@@ -3839,6 +3840,75 @@
               "2",
               "[@slowli](https://github.com/slowli)/[**software-engineering…**](https://github.com/slowli/software-engineering-lectures)",
               "Лекции по программной инженерии",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "VimL #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "64",
+              "[@tikhomirov](https://github.com/tikhomirov)/[**vim-glsl**](https://github.com/tikhomirov/vim-glsl)",
+              "Vim runtime files for OpenGL Shading Language",
+              ""
+            ],
+            [
+              "46",
+              "[@troydm](https://github.com/troydm)/[**easybuffer.vim**](https://github.com/troydm/easybuffer.vim)",
+              "easybuffer.vim - vim plugin to quickly switch between buffers",
+              ""
+            ],
+            [
+              "29",
+              "[@troydm](https://github.com/troydm)/[**easytree.vim**](https://github.com/troydm/easytree.vim)",
+              "easytree.vim - tree file manager",
+              ""
+            ],
+            [
+              "22",
+              "[@troydm](https://github.com/troydm)/[**zoomwintab.vim**](https://github.com/troydm/zoomwintab.vim)",
+              "zoomwintab vim plugin",
+              ""
+            ],
+            [
+              "7",
+              "[@timlar](https://github.com/timlar)/[**vim**](https://github.com/timlar/vim)",
+              "",
+              ""
+            ],
+            [
+              "6",
+              "[@troydm](https://github.com/troydm)/[**pb.vim**](https://github.com/troydm/pb.vim)",
+              "pb.vim plugin for Vim to interact with Mac OS X pastebuffer",
+              ""
+            ],
+            [
+              "4",
+              "[@ulidtko](https://github.com/ulidtko)/[**versioned-configs**](https://github.com/ulidtko/versioned-configs)",
+              "Naming dotfiles as \"versioned-configs\" before it was cool",
+              ""
+            ],
+            [
+              "3",
+              "[@kasyaar](https://github.com/kasyaar)/[**vim_config**](https://github.com/kasyaar/vim_config)",
+              "vim config for true erlang, js, clojure developers with plugin manager, syntax checkers, project tree, git integration and so on",
+              ""
+            ],
+            [
+              "2",
+              "[@troydm](https://github.com/troydm)/[**dotvim**](https://github.com/troydm/dotvim)",
+              "my vim configuration",
               ""
             ]
           ]
