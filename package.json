@@ -60,7 +60,8 @@
           "[Matlab](#matlab)",
           "[Objective-C](#objective-c)",
           "[Perl](#perl)",
-          "[PHP](#php)"
+          "[PHP](#php)",
+          "[Python](#python)"
         ]
       },
       {
@@ -2833,6 +2834,387 @@
               "2",
               "[@trntv](https://github.com/trntv)/[**systeminfo**](https://github.com/trntv/systeminfo)",
               "Simple system information helper",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Python #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "1974",
+              "[@kachayev](https://github.com/kachayev)/[**fn.py**](https://github.com/kachayev/fn.py)",
+              "Functional programming in Python: implementation of missing features to enjoy FP",
+              ""
+            ],
+            [
+              "166",
+              "[@slav0nic](https://github.com/slav0nic)/[**djangobb**](https://github.com/slav0nic/djangobb)",
+              "DjangoBB mirror. DjangoBB is a quick and simple forum which uses the Django Framework (written in Python language). Abbreviation DjangoBB stands for Django Bulletin Board. DjangoBB is distributed under the BSD license. ",
+              "[:arrow_upper_right:](djangobb.org)"
+            ],
+            [
+              "82",
+              "[@hellysmile](https://github.com/hellysmile)/[**django-activeurl**](https://github.com/hellysmile/django-activeurl)",
+              "Easy to use active URL highlighting for django",
+              "[:arrow_upper_right:](https://pypi.python.org/pypi/django-activeurl)"
+            ],
+            [
+              "69",
+              "[@hellysmile](https://github.com/hellysmile)/[**fake-useragent**](https://github.com/hellysmile/fake-useragent)",
+              "up to date simple useragent faker with real world database",
+              "[:arrow_upper_right:](https://pypi.python.org/pypi/fake-useragent)"
+            ],
+            [
+              "53",
+              "[@dchaplinsky](https://github.com/dchaplinsky)/[**visual-logging**](https://github.com/dchaplinsky/visual-logging)",
+              "A simple way to generate beautiful html logs with embedded images for CV purposes.",
+              ""
+            ],
+            [
+              "52",
+              "[@k-bx](https://github.com/k-bx)/[**python-semver**](https://github.com/k-bx/python-semver)",
+              "Python package to work with Semantic Versioning (http://semver.org/)",
+              ""
+            ],
+            [
+              "51",
+              "[@playpauseandstop](https://github.com/playpauseandstop)/[**Flask-Dropbox**](https://github.com/playpauseandstop/Flask-Dropbox)",
+              "Dropbox Python SDK support for Flask applications",
+              ""
+            ],
+            [
+              "47",
+              "[@playpauseandstop](https://github.com/playpauseandstop)/[**Flask-And-Redis**](https://github.com/playpauseandstop/Flask-And-Redis)",
+              "Simple as dead support of Redis database for Flask applications",
+              "[:arrow_upper_right:](http://flask-and-redis.readthedocs.org/)"
+            ],
+            [
+              "43",
+              "[@joymax](https://github.com/joymax)/[**django-dtpanel-htmlt…**](https://github.com/joymax/django-dtpanel-htmltidy)",
+              "Custom panel form Django Debug Toolbar which display HTML Validation errors and warnings",
+              ""
+            ],
+            [
+              "40",
+              "[@playpauseandstop](https://github.com/playpauseandstop)/[**tddspry**](https://github.com/playpauseandstop/tddspry)",
+              "Collection of testcases and helpers to test Django projects and applications with nose and twill libraries.",
+              "[:arrow_upper_right:](http://playpauseandstop.github.com/tddspry/)"
+            ],
+            [
+              "36",
+              "[@joymax](https://github.com/joymax)/[**arango-python**](https://github.com/joymax/arango-python)",
+              "Driver for Avocado DB",
+              "[:arrow_upper_right:](http://www.avocadodb.org/)"
+            ],
+            [
+              "35",
+              "[@playpauseandstop](https://github.com/playpauseandstop)/[**django-mediafiles**](https://github.com/playpauseandstop/django-mediafiles)",
+              "Django media files manager",
+              "[:arrow_upper_right:](http://code.google.com/p/django-mediafiles/)"
+            ],
+            [
+              "29",
+              "[@dchaplinsky](https://github.com/dchaplinsky)/[**unshred**](https://github.com/dchaplinsky/unshred)",
+              "Experiments on darpa shredder challenge tasks using python & opencv.",
+              ""
+            ],
+            [
+              "26",
+              "[@playpauseandstop](https://github.com/playpauseandstop)/[**rororo**](https://github.com/playpauseandstop/rororo)",
+              "Utilities, helpers, and useful principles for building Python backend applications",
+              ""
+            ],
+            [
+              "22",
+              "[@playpauseandstop](https://github.com/playpauseandstop)/[**Flask-LazyViews**](https://github.com/playpauseandstop/Flask-LazyViews)",
+              "Register URL routes for Flask application or blueprint in lazy way",
+              "[:arrow_upper_right:](http://flask-lazyviews.readthedocs.org/)"
+            ],
+            [
+              "22",
+              "[@dchaplinsky](https://github.com/dchaplinsky)/[**unshred-tag**](https://github.com/dchaplinsky/unshred-tag)",
+              "Flask/Mongo app to manually tag shreds. Experimental, volatile, unstable. No english translation yet, sorry.",
+              ""
+            ],
+            [
+              "21",
+              "[@playpauseandstop](https://github.com/playpauseandstop)/[**kikola**](https://github.com/playpauseandstop/kikola)",
+              "Kikola is a collection of Django's custom context processors, form fields and widgets, middlewares, model fields, reusable apps and template tags.",
+              ""
+            ],
+            [
+              "18",
+              "[@dchaplinsky](https://github.com/dchaplinsky)/[**translit-ua**](https://github.com/dchaplinsky/translit-ua)",
+              "Transliteration for ukrainian language that uses officialy approved rules",
+              ""
+            ],
+            [
+              "13",
+              "[@muromec](https://github.com/muromec)/[**consoleargs**](https://github.com/muromec/consoleargs)",
+              "Pythonic argument parser for humans",
+              "[:arrow_upper_right:](consoleargs.enodev.org)"
+            ],
+            [
+              "11",
+              "[@msoedov](https://github.com/msoedov)/[**quick.py**](https://github.com/msoedov/quick.py)",
+              "Property-based testing library for Python",
+              ""
+            ],
+            [
+              "10",
+              "[@koder-ua](https://github.com/koder-ua)/[**python-lectures**](https://github.com/koder-ua/python-lectures)",
+              "",
+              ""
+            ],
+            [
+              "10",
+              "[@playpauseandstop](https://github.com/playpauseandstop)/[**bootstrapper**](https://github.com/playpauseandstop/bootstrapper)",
+              "Bootstrap Python projects or libraries with virtualenv and pip",
+              "[:arrow_upper_right:](http://bootstrapper.readthedocs.org/)"
+            ],
+            [
+              "9",
+              "[@joymax](https://github.com/joymax)/[**python-apns**](https://github.com/joymax/python-apns)",
+              "Apple Push Notification Wrapper service for Python (early alpha)",
+              ""
+            ],
+            [
+              "9",
+              "[@proger](https://github.com/proger)/[**dtrace-objc-leakobj**](https://github.com/proger/dtrace-objc-leakobj)",
+              "Autogenerate DTrace providers for Objective-C methods and inject them in runtime",
+              ""
+            ],
+            [
+              "8",
+              "[@playpauseandstop](https://github.com/playpauseandstop)/[**scm-up-all**](https://github.com/playpauseandstop/scm-up-all)",
+              "Python script to fast update all SCMs (Bazaar, Darcs, Git, Git SVN, Mercurial, Subversion) directories",
+              ""
+            ],
+            [
+              "8",
+              "[@dchaplinsky](https://github.com/dchaplinsky)/[**LT2OpenCorpora**](https://github.com/dchaplinsky/LT2OpenCorpora)",
+              "Python script to convert ukrainian morphological dictionary to OpenCorpora format. Script runs well under PyPy and also collects some stats/insights/anomalies in the dicts. Use on your own risk.",
+              ""
+            ],
+            [
+              "7",
+              "[@msoedov](https://github.com/msoedov)/[**broccoli**](https://github.com/msoedov/broccoli)",
+              "A dependency injection package",
+              ""
+            ],
+            [
+              "7",
+              "[@muromec](https://github.com/muromec)/[**putusb**](https://github.com/muromec/putusb)",
+              "boot_usb rewrite in python",
+              ""
+            ],
+            [
+              "6",
+              "[@proger](https://github.com/proger)/[**python2nix**](https://github.com/proger/python2nix)",
+              "NOW PART OF zalora/microgram",
+              "[:arrow_upper_right:](https://github.com/zalora/microgram)"
+            ],
+            [
+              "6",
+              "[@Mikhus](https://github.com/Mikhus)/[**wsgikit**](https://github.com/Mikhus/wsgikit)",
+              "Python tools for WSGI applications. Fast HTTP request parsing, files uploads, HTTP requests security, etc",
+              ""
+            ],
+            [
+              "6",
+              "[@hellysmile](https://github.com/hellysmile)/[**django-mongo-session…**](https://github.com/hellysmile/django-mongo-sessions)",
+              "mongodb as Django sessions backend",
+              "[:arrow_upper_right:](https://pypi.python.org/pypi/django-mongo-sessions)"
+            ],
+            [
+              "5",
+              "[@joymax](https://github.com/joymax)/[**sublime-jslint-jslin…**](https://github.com/joymax/sublime-jslint-jslint4java)",
+              "JsLint Checker with JsLint4Java for Sublime Text 2",
+              ""
+            ],
+            [
+              "5",
+              "[@playpauseandstop](https://github.com/playpauseandstop)/[**readthestuff**](https://github.com/playpauseandstop/readthestuff)",
+              "Read the Stuff or yet another Google Reader alternative built on top of Python",
+              ""
+            ],
+            [
+              "5",
+              "[@k-bx](https://github.com/k-bx)/[**jquery-unparam**](https://github.com/k-bx/jquery-unparam)",
+              "A python library to parse jquery.param() string.",
+              ""
+            ],
+            [
+              "5",
+              "[@msoedov](https://github.com/msoedov)/[**flask-graphql-exampl…**](https://github.com/msoedov/flask-graphql-example)",
+              "Example GraphQL application with Flask, pypy/python3 and MongoDB",
+              ""
+            ],
+            [
+              "4",
+              "[@hellysmile](https://github.com/hellysmile)/[**obmenka**](https://github.com/hellysmile/obmenka)",
+              "Mac OS X UAH currency tracker",
+              "[:arrow_upper_right:](http://obmenka.kharkov.ua/)"
+            ],
+            [
+              "4",
+              "[@nimnull](https://github.com/nimnull)/[**lviv.py-5**](https://github.com/nimnull/lviv.py-5)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@joymax](https://github.com/joymax)/[**lettuce-web**](https://github.com/joymax/lettuce-web)",
+              "Behavior Driven Development (BDD) abstract web driver for lettuce",
+              ""
+            ],
+            [
+              "4",
+              "[@k-bx](https://github.com/k-bx)/[**mockstar**](https://github.com/k-bx/mockstar)",
+              "Mockstar is a small enhance on top of Mock library that gives you declarative way to write your unit-tests.",
+              ""
+            ],
+            [
+              "3",
+              "[@playpauseandstop](https://github.com/playpauseandstop)/[**setman**](https://github.com/playpauseandstop/setman)",
+              "Settings manager for Python web-apps and projects. Another?",
+              ""
+            ],
+            [
+              "3",
+              "[@nimnull](https://github.com/nimnull)/[**qrcode**](https://github.com/nimnull/qrcode)",
+              "qrcoding app",
+              ""
+            ],
+            [
+              "3",
+              "[@sochka](https://github.com/sochka)/[**kpiexport**](https://github.com/sochka/kpiexport)",
+              "new version here: use https://github.com/sochka/kpiexport2 ",
+              ""
+            ],
+            [
+              "3",
+              "[@sochka](https://github.com/sochka)/[**dotfiles**](https://github.com/sochka/dotfiles)",
+              "Dotfiles, scripts and textual configuration settings",
+              ""
+            ],
+            [
+              "3",
+              "[@muromec](https://github.com/muromec)/[**pysnole**](https://github.com/muromec/pysnole)",
+              "PyQt console (terminal emulation) widget",
+              "[:arrow_upper_right:](http://pysnole.enodev.org)"
+            ],
+            [
+              "3",
+              "[@proger](https://github.com/proger)/[**pyelf**](https://github.com/proger/pyelf)",
+              "elftoolchain libdwarf/libelf cython bindings",
+              ""
+            ],
+            [
+              "3",
+              "[@Mikhus](https://github.com/Mikhus)/[**regd**](https://github.com/Mikhus/regd)",
+              "Decorators trace meta-info for Python",
+              ""
+            ],
+            [
+              "3",
+              "[@proger](https://github.com/proger)/[**hl7**](https://github.com/proger/hl7)",
+              "HL7 v3 (XML)",
+              ""
+            ],
+            [
+              "3",
+              "[@joymax](https://github.com/joymax)/[**django-properties-ca…**](https://github.com/joymax/django-properties-cache)",
+              "Cache specific model properties or methods in database and write custom update handlers",
+              ""
+            ],
+            [
+              "3",
+              "[@muromec](https://github.com/muromec)/[**fuse-tagfs**](https://github.com/muromec/fuse-tagfs)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@proger](https://github.com/proger)/[**astpy**](https://github.com/proger/astpy)",
+              "Python AST transformations library",
+              ""
+            ],
+            [
+              "2",
+              "[@hellysmile](https://github.com/hellysmile)/[**django-iron-sessions**](https://github.com/hellysmile/django-iron-sessions)",
+              "iron.io cache as Django sessions backend",
+              "[:arrow_upper_right:](https://pypi.python.org/pypi/django-iron-sessions)"
+            ],
+            [
+              "2",
+              "[@muromec](https://github.com/muromec)/[**budget2012**](https://github.com/muromec/budget2012)",
+              "Парсер бюджета Украины",
+              ""
+            ],
+            [
+              "2",
+              "[@joymax](https://github.com/joymax)/[**data-driven-design**](https://github.com/joymax/data-driven-design)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@joymax](https://github.com/joymax)/[**baristatest**](https://github.com/joymax/baristatest)",
+              "Barista Test Project",
+              "[:arrow_upper_right:](http://www.getbarista.com)"
+            ],
+            [
+              "2",
+              "[@muromec](https://github.com/muromec)/[**nineim**](https://github.com/muromec/nineim)",
+              "9P-powered jabber client",
+              ""
+            ],
+            [
+              "2",
+              "[@koder-ua](https://github.com/koder-ua)/[**vm_ut**](https://github.com/koder-ua/vm_ut)",
+              "Run nosetests unittests on vm's",
+              ""
+            ],
+            [
+              "2",
+              "[@koder-ua](https://github.com/koder-ua)/[**ceph-monitoring**](https://github.com/koder-ua/ceph-monitoring)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@k-bx](https://github.com/k-bx)/[**django-pyfixture**](https://github.com/k-bx/django-pyfixture)",
+              "This package lets you write fixtures as regular .py-files.",
+              ""
+            ],
+            [
+              "2",
+              "[@koder-ua](https://github.com/koder-ua)/[**python_deps**](https://github.com/koder-ua/python_deps)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@msoedov](https://github.com/msoedov)/[**baguette**](https://github.com/msoedov/baguette)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@koder-ua](https://github.com/koder-ua)/[**megarepo**](https://github.com/koder-ua/megarepo)",
+              "root repo to manage a lot of projects together",
               ""
             ]
           ]
