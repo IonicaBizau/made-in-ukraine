@@ -56,7 +56,8 @@
           "[CoffeeScript](#coffeescript)",
           "[Go](#go)",
           "[Haskell](#haskell)",
-          "[Lua](#lua)"
+          "[Lua](#lua)",
+          "[Matlab](#matlab)"
         ]
       },
       {
@@ -2109,6 +2110,27 @@
               "3",
               "[@Fkids](https://github.com/Fkids)/[**JC2MP-ExtraSeats**](https://github.com/Fkids/JC2MP-ExtraSeats)",
               "Implementation of additional vehicle seats for JC2MP.",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Matlab #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "4",
+              "[@abill](https://github.com/abill)/[**DeBlur**](https://github.com/abill/DeBlur)",
+              "motion blur healing matlab project",
               ""
             ]
           ]
