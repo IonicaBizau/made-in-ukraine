@@ -53,7 +53,8 @@
           "[C++](#c-2)",
           "[ActionScript](#actionscript)",
           "[Clojure](#clojure)",
-          "[CoffeeScript](#coffeescript)"
+          "[CoffeeScript](#coffeescript)",
+          "[Go](#go)"
         ]
       },
       {
@@ -1911,6 +1912,93 @@
               "2",
               "[@Sitin](https://github.com/Sitin)/[**coffee-mix**](https://github.com/Sitin/coffee-mix)",
               "Mixins support for CoffeeScript.",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Go #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "26",
+              "[@iu0v1](https://github.com/iu0v1)/[**gelada**](https://github.com/iu0v1/gelada)",
+              "Go (golang) middleware package, which provides a tool for HTTP session authentication control (via cookie)",
+              ""
+            ],
+            [
+              "16",
+              "[@iu0v1](https://github.com/iu0v1)/[**attar**](https://github.com/iu0v1/attar)",
+              "[DEPRECATED] Go pakage for http session auth.",
+              ""
+            ],
+            [
+              "13",
+              "[@iu0v1](https://github.com/iu0v1)/[**daslog**](https://github.com/iu0v1/daslog)",
+              "Go (golang) simple logger package.",
+              ""
+            ],
+            [
+              "11",
+              "[@iu0v1](https://github.com/iu0v1)/[**herots**](https://github.com/iu0v1/herots)",
+              "Go (golang) package for simple and fast creation of TLS-servers and/or TLS-clients.",
+              ""
+            ],
+            [
+              "6",
+              "[@vchimishuk](https://github.com/vchimishuk)/[**chub**](https://github.com/vchimishuk/chub)",
+              "Chub is MPD-like player daemon implemented in Go.",
+              ""
+            ],
+            [
+              "5",
+              "[@vchimishuk](https://github.com/vchimishuk)/[**chubd-OLD**](https://github.com/vchimishuk/chubd-OLD)",
+              "MPD-like music player daemon.",
+              ""
+            ],
+            [
+              "3",
+              "[@ArtIsResistance](https://github.com/ArtIsResistance)/[**GithubPotentials**](https://github.com/ArtIsResistance/GithubPotentials)",
+              "Explore rising github projects",
+              ""
+            ],
+            [
+              "3",
+              "[@HrolikovSergey](https://github.com/HrolikovSergey)/[**portal_cinema**](https://github.com/HrolikovSergey/portal_cinema)",
+              "Telegram bot for portalcinema.com.ua",
+              ""
+            ],
+            [
+              "2",
+              "[@DLag](https://github.com/DLag)/[**logear**](https://github.com/DLag/logear)",
+              "Flexible and reliable logger system",
+              ""
+            ],
+            [
+              "2",
+              "[@DLag](https://github.com/DLag)/[**go-poolhandler**](https://github.com/DLag/go-poolhandler)",
+              "Pool manager and counter for Golang net/http handler ",
+              ""
+            ],
+            [
+              "2",
+              "[@vchimishuk](https://github.com/vchimishuk)/[**id3tag-go**](https://github.com/vchimishuk/id3tag-go)",
+              "id3tag is a Go wrapper around C libid3tag library",
+              ""
+            ],
+            [
+              "2",
+              "[@vchimishuk](https://github.com/vchimishuk)/[**cue-go**](https://github.com/vchimishuk/cue-go)",
+              "Go cue parser package",
               ""
             ]
           ]
