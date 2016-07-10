@@ -66,7 +66,8 @@
           "[Ruby](#ruby)",
           "[Scala](#scala)",
           "[Shell](#shell)",
-          "[Swift](#swift)"
+          "[Swift](#swift)",
+          "[TeX](#tex)"
         ]
       },
       {
@@ -3817,6 +3818,27 @@
               "2",
               "[@dreymonde](https://github.com/dreymonde)/[**SwiftyNURE**](https://github.com/dreymonde/SwiftyNURE)",
               "Swift framework for NURE API (CIST)",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "TeX #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "2",
+              "[@slowli](https://github.com/slowli)/[**software-engineering…**](https://github.com/slowli/software-engineering-lectures)",
+              "Лекции по программной инженерии",
               ""
             ]
           ]
