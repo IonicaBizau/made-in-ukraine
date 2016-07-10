@@ -50,7 +50,8 @@
           "[Java](#java)",
           "[C#](#c-1)",
           "[C](undefined)",
-          "[C++](#c-2)"
+          "[C++](#c-2)",
+          "[ActionScript](#actionscript)"
         ]
       },
       {
@@ -1744,6 +1745,117 @@
               "[@dennis714](https://github.com/dennis714)/[**Copyfile**](https://github.com/dennis714/Copyfile)",
               "Just copy file ignoring any error (including CRC32)",
               "[:arrow_upper_right:](http://yurichev.com/copyfile.html)"
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "ActionScript #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "8",
+              "[@VirtualMaestro](https://github.com/VirtualMaestro)/[**BabyBox**](https://github.com/VirtualMaestro/BabyBox)",
+              "BabyBox Engine - component based game engine",
+              ""
+            ],
+            [
+              "6",
+              "[@VirtualMaestro](https://github.com/VirtualMaestro)/[**BBSignal**](https://github.com/VirtualMaestro/BBSignal)",
+              "Alternative event system",
+              ""
+            ],
+            [
+              "6",
+              "[@MikroAcse](https://github.com/MikroAcse)/[**MikroAcse-Library**](https://github.com/MikroAcse/MikroAcse-Library)",
+              "MikroAcse Library 2.1 (Some functions IN-TEST)",
+              "[:arrow_upper_right:](acse.pp.ua)"
+            ],
+            [
+              "6",
+              "[@VirtualMaestro](https://github.com/VirtualMaestro)/[**BBModule**](https://github.com/VirtualMaestro/BBModule)",
+              "Modular system. Used in game engine",
+              ""
+            ],
+            [
+              "5",
+              "[@VirtualMaestro](https://github.com/VirtualMaestro)/[**GameUtils**](https://github.com/VirtualMaestro/GameUtils)",
+              "Handy utils for game dev",
+              ""
+            ],
+            [
+              "5",
+              "[@VirtualMaestro](https://github.com/VirtualMaestro)/[**PerformanceTests**](https://github.com/VirtualMaestro/PerformanceTests)",
+              "Performance tests",
+              ""
+            ],
+            [
+              "5",
+              "[@VirtualMaestro](https://github.com/VirtualMaestro)/[**Spheres8**](https://github.com/VirtualMaestro/Spheres8)",
+              "",
+              ""
+            ],
+            [
+              "5",
+              "[@VirtualMaestro](https://github.com/VirtualMaestro)/[**Osmos**](https://github.com/VirtualMaestro/Osmos)",
+              "",
+              ""
+            ],
+            [
+              "5",
+              "[@VirtualMaestro](https://github.com/VirtualMaestro)/[**BBQuadTree**](https://github.com/VirtualMaestro/BBQuadTree)",
+              "QuadTree implementation",
+              ""
+            ],
+            [
+              "5",
+              "[@VirtualMaestro](https://github.com/VirtualMaestro)/[**BBFSM**](https://github.com/VirtualMaestro/BBFSM)",
+              "Implementation of finite state machine",
+              ""
+            ],
+            [
+              "4",
+              "[@alexandrratush](https://github.com/alexandrratush)/[**as3-stomp**](https://github.com/alexandrratush/as3-stomp)",
+              "AS3 Stomp library, forked from https://code.google.com/p/as3-stomp/",
+              ""
+            ],
+            [
+              "4",
+              "[@alexandrratush](https://github.com/alexandrratush)/[**Design-Patterns-AS3**](https://github.com/alexandrratush/Design-Patterns-AS3)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@alexandrratush](https://github.com/alexandrratush)/[**Native-Logger-ANE**](https://github.com/alexandrratush/Native-Logger-ANE)",
+              "Native Logger for Android (Air Native Extension)",
+              ""
+            ],
+            [
+              "3",
+              "[@vymarkov](https://github.com/vymarkov)/[**NameCaseLib.ActionSc…**](https://github.com/vymarkov/NameCaseLib.ActionScript)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@Darkwing-Duck](https://github.com/Darkwing-Duck)/[**gdata-as3-client**](https://github.com/Darkwing-Duck/gdata-as3-client)",
+              "ActionScript gdata library for working with google speadsheets.",
+              ""
+            ],
+            [
+              "2",
+              "[@alexandrratush](https://github.com/alexandrratush)/[**Android-Dialogs-ANE**](https://github.com/alexandrratush/Android-Dialogs-ANE)",
+              "Android Dialogs ANE (Air Native Extension). AlertDialog, ProgressDialog",
+              ""
             ]
           ]
         }
