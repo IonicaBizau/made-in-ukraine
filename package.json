@@ -63,7 +63,8 @@
           "[PHP](#php)",
           "[Python](#python)",
           "[R](#r)",
-          "[Ruby](#ruby)"
+          "[Ruby](#ruby)",
+          "[Scala](#scala)"
         ]
       },
       {
@@ -3607,6 +3608,129 @@
               "2",
               "[@galetahub](https://github.com/galetahub)/[**ballot_box**](https://github.com/galetahub/ballot_box)",
               "Votes, ratings via rack",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Scala #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "109",
+              "[@rssh](https://github.com/rssh)/[**scala-gopher**](https://github.com/rssh/scala-gopher)",
+              "Implementation of CSP constructors (Communication Sequence Process, i.e. go-like channels) in scala",
+              ""
+            ],
+            [
+              "76",
+              "[@t3hnar](https://github.com/t3hnar)/[**scala-bcrypt**](https://github.com/t3hnar/scala-bcrypt)",
+              "Scala wrapper for jBcrypt + pom.xml inside",
+              ""
+            ],
+            [
+              "20",
+              "[@t3hnar](https://github.com/t3hnar)/[**scalax**](https://github.com/t3hnar/scalax)",
+              "Extension for default scala library",
+              ""
+            ],
+            [
+              "14",
+              "[@t3hnar](https://github.com/t3hnar)/[**ev3.helloworld**](https://github.com/t3hnar/ev3.helloworld)",
+              "Mindstorms EV3 Hello World in Scala",
+              ""
+            ],
+            [
+              "10",
+              "[@sonenko](https://github.com/sonenko)/[**vsjson**](https://github.com/sonenko/vsjson)",
+              "Spray-JSON VS Json4s Performance Test",
+              ""
+            ],
+            [
+              "10",
+              "[@intracer](https://github.com/intracer)/[**scalawiki**](https://github.com/intracer/scalawiki)",
+              "scalawiki is a MediaWiki client in Scala",
+              ""
+            ],
+            [
+              "9",
+              "[@rssh](https://github.com/rssh)/[**trackedfuture**](https://github.com/rssh/trackedfuture)",
+              "small runtime + java-agent, which brings back full stacktrace for exceptions, generated inside Future callbacks (like apply, map, flatMap, etc..)",
+              ""
+            ],
+            [
+              "7",
+              "[@sonenko](https://github.com/sonenko)/[**web-system-monitor**](https://github.com/sonenko/web-system-monitor)",
+              "",
+              ""
+            ],
+            [
+              "5",
+              "[@siman](https://github.com/siman)/[**scala-validation**](https://github.com/siman/scala-validation)",
+              "Simple validation framework for Scala",
+              ""
+            ],
+            [
+              "4",
+              "[@t3hnar](https://github.com/t3hnar)/[**scala-cqrs**](https://github.com/t3hnar/scala-cqrs)",
+              "scala-cqrs",
+              ""
+            ],
+            [
+              "3",
+              "[@rssh](https://github.com/rssh)/[**fixture-state-manage…**](https://github.com/rssh/fixture-state-management)",
+              "extension to scalatest for testing with fixture states (such as relational databases)",
+              ""
+            ],
+            [
+              "3",
+              "[@rssh](https://github.com/rssh)/[**scala-training-mater…**](https://github.com/rssh/scala-training-materials)",
+              "Matherials for scala training - project templates.",
+              ""
+            ],
+            [
+              "3",
+              "[@sonenko](https://github.com/sonenko)/[**scala-js-samples**](https://github.com/sonenko/scala-js-samples)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@rssh](https://github.com/rssh)/[**stermware**](https://github.com/rssh/stermware)",
+              "termware next generation",
+              ""
+            ],
+            [
+              "2",
+              "[@t3hnar](https://github.com/t3hnar)/[**akkax**](https://github.com/t3hnar/akkax)",
+              "AkkaX",
+              ""
+            ],
+            [
+              "2",
+              "[@intracer](https://github.com/intracer)/[**wlxjury**](https://github.com/intracer/wlxjury)",
+              "",
+              "[:arrow_upper_right:](https://commons.wikimedia.org/wiki/Commons:WLX_Jury_Tool)"
+            ],
+            [
+              "2",
+              "[@sonenko](https://github.com/sonenko)/[**elastic-helper**](https://github.com/sonenko/elastic-helper)",
+              "additional functions for elastic4s and simple migration system",
+              ""
+            ],
+            [
+              "2",
+              "[@sonenko](https://github.com/sonenko)/[**logical-parser**](https://github.com/sonenko/logical-parser)",
+              "",
               ""
             ]
           ]
