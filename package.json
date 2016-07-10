@@ -59,7 +59,8 @@
           "[Lua](#lua)",
           "[Matlab](#matlab)",
           "[Objective-C](#objective-c)",
-          "[Perl](#perl)"
+          "[Perl](#perl)",
+          "[PHP](#php)"
         ]
       },
       {
@@ -2499,6 +2500,339 @@
               "2",
               "[@cub-uanic](https://github.com/cub-uanic)/[**Catalyst-Controller-…**](https://github.com/cub-uanic/Catalyst-Controller-DBIC-API)",
               "fork of git://git.shadowcat.co.uk/catagits/Catal…",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "PHP #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "608",
+              "[@trntv](https://github.com/trntv)/[**yii2-starter-kit**](https://github.com/trntv/yii2-starter-kit)",
+              "Yii2 Starter Kit",
+              "[:arrow_upper_right:](http://yii2-starter-kit.terentev.net)"
+            ],
+            [
+              "190",
+              "[@stfalcon](https://github.com/stfalcon)/[**TinymceBundle**](https://github.com/stfalcon/TinymceBundle)",
+              "Bundle for connecting TinyMCE (WYSIWYG editor) to your Symfony2 project",
+              ""
+            ],
+            [
+              "161",
+              "[@fre5h](https://github.com/fre5h)/[**DoctrineEnumBundle**](https://github.com/fre5h/DoctrineEnumBundle)",
+              "Provides support of ENUM type for Doctrine in Symfony applications.",
+              "[:arrow_upper_right:](https://github.com/fre5h/DoctrineEnumBundle)"
+            ],
+            [
+              "58",
+              "[@trntv](https://github.com/trntv)/[**yii2-file-kit**](https://github.com/trntv/yii2-file-kit)",
+              "Yii2 File storage and upload kit",
+              "[:arrow_upper_right:](https://github.com/trntv/yii2-starter-kit)"
+            ],
+            [
+              "49",
+              "[@AntonShevchuk](https://github.com/AntonShevchuk)/[**Bluz**](https://github.com/AntonShevchuk/Bluz)",
+              "Lightweight PHP framework",
+              ""
+            ],
+            [
+              "32",
+              "[@stfalcon](https://github.com/stfalcon)/[**BlogBundle**](https://github.com/stfalcon/BlogBundle)",
+              "Simple blog module to your Symfony2 project. Posts / Tags / Cut and Read more / Highlight Source Code / Breadcrumbs / Paginations / Unit tests / Disqus comments widget",
+              "[:arrow_upper_right:](stfalcon.com/blog)"
+            ],
+            [
+              "29",
+              "[@DavertMik](https://github.com/DavertMik)/[**php-webdriver-demo**](https://github.com/DavertMik/php-webdriver-demo)",
+              "Using facebook/php-webdriver library with PHPUnit",
+              "[:arrow_upper_right:](http://codeception.com/11-12-2013/working-with-phpunit-and-selenium-webdriver.html)"
+            ],
+            [
+              "27",
+              "[@makasim](https://github.com/makasim)/[**sfPhpunitPlugin**](https://github.com/makasim/sfPhpunitPlugin)",
+              "Integrate phpunit framework with symfony one",
+              ""
+            ],
+            [
+              "23",
+              "[@makasim](https://github.com/makasim)/[**PayumBundleSandbox**](https://github.com/makasim/PayumBundleSandbox)",
+              "Symfony2 application to play with PayumBundle.",
+              ""
+            ],
+            [
+              "20",
+              "[@DavertMik](https://github.com/DavertMik)/[**doAuthPlugin**](https://github.com/DavertMik/doAuthPlugin)",
+              "Symfony new authentication / user managemant system",
+              ""
+            ],
+            [
+              "20",
+              "[@trntv](https://github.com/trntv)/[**yii2-aceeditor**](https://github.com/trntv/yii2-aceeditor)",
+              "Yii2 Ace Editor widget",
+              "[:arrow_upper_right:](http://github.com/trntv/yii2-starter-kit)"
+            ],
+            [
+              "20",
+              "[@makasim](https://github.com/makasim)/[**fpErrorNotifierPlugi…**](https://github.com/makasim/fpErrorNotifierPlugin)",
+              "A symfony plugin that add ability to catch all kind of exceptions\\errors including fatal ones and send them as a mail.",
+              ""
+            ],
+            [
+              "18",
+              "[@makasim](https://github.com/makasim)/[**yadm**](https://github.com/makasim/yadm)",
+              "Yadm is a MongoDB ODM. Schema less. Fast object hydration and persistence ODM. Good choice for aggregation root models.",
+              ""
+            ],
+            [
+              "17",
+              "[@stfalcon](https://github.com/stfalcon)/[**PortfolioBundle**](https://github.com/stfalcon/PortfolioBundle)",
+              "Simple portfolio module to your symfony2 project",
+              ""
+            ],
+            [
+              "16",
+              "[@stfalcon](https://github.com/stfalcon)/[**fwdays**](https://github.com/stfalcon/fwdays)",
+              "Powered by Symfony2. Site for conference \"Frameworks Days\"",
+              ""
+            ],
+            [
+              "13",
+              "[@trntv](https://github.com/trntv)/[**yii2-glide**](https://github.com/trntv/yii2-glide)",
+              "Yii2 Glide integration component",
+              "[:arrow_upper_right:](http://github.com/trntv/yii2-starter-kit)"
+            ],
+            [
+              "13",
+              "[@fre5h](https://github.com/fre5h)/[**VichUploaderSerializ…**](https://github.com/fre5h/VichUploaderSerializationBundle)",
+              "Provides integration between VichUploaderBundle and JMSSerializerBundle.",
+              "[:arrow_upper_right:](https://github.com/fre5h/VichUploaderSerializationBundle)"
+            ],
+            [
+              "13",
+              "[@fre5h](https://github.com/fre5h)/[**transliteration**](https://github.com/fre5h/transliteration)",
+              "PHP library for transliteration.",
+              "[:arrow_upper_right:](https://github.com/fre5h/transliteration)"
+            ],
+            [
+              "12",
+              "[@AntonShevchuk](https://github.com/AntonShevchuk)/[**yandex**](https://github.com/AntonShevchuk/yandex)",
+              "Класс для работы с поисковым сервисом Яндекс.XML",
+              "[:arrow_upper_right:](http://yandex.hohli.com/)"
+            ],
+            [
+              "10",
+              "[@trntv](https://github.com/trntv)/[**yii2-command-bus**](https://github.com/trntv/yii2-command-bus)",
+              "Command Bus for Yii2",
+              ""
+            ],
+            [
+              "10",
+              "[@trntv](https://github.com/trntv)/[**probe**](https://github.com/trntv/probe)",
+              "PHP System Information Provider",
+              ""
+            ],
+            [
+              "10",
+              "[@DavertMik](https://github.com/DavertMik)/[**SymfonyCodeceptionAp…**](https://github.com/DavertMik/SymfonyCodeceptionApp)",
+              "this repo is deprecated in favor of",
+              "[:arrow_upper_right:](https://github.com/Codeception/symfony-demo)"
+            ],
+            [
+              "10",
+              "[@cystbear](https://github.com/cystbear)/[**AuthorizeNet-PHP-SDK**](https://github.com/cystbear/AuthorizeNet-PHP-SDK)",
+              "AuthorizeNet PHP SDK reloaded. With namespaces and PSR-0 compatible directory structure. (__NOT__MAINTANED__) check official repo ==>",
+              "[:arrow_upper_right:](https://github.com/AuthorizeNet/sdk-php)"
+            ],
+            [
+              "9",
+              "[@trntv](https://github.com/trntv)/[**yii2-tactician**](https://github.com/trntv/yii2-tactician)",
+              "Tactician adapter for Yii2",
+              ""
+            ],
+            [
+              "7",
+              "[@trntv](https://github.com/trntv)/[**yii2-debug-xhprof**](https://github.com/trntv/yii2-debug-xhprof)",
+              "",
+              "[:arrow_upper_right:](http://github.com/trntv/yii2-starter-kit)"
+            ],
+            [
+              "7",
+              "[@DavertMik](https://github.com/DavertMik)/[**Symfohub**](https://github.com/DavertMik/Symfohub)",
+              "Collection of github repositories",
+              "[:arrow_upper_right:](http://symfohub.com)"
+            ],
+            [
+              "7",
+              "[@trntv](https://github.com/trntv)/[**yii2-deploy**](https://github.com/trntv/yii2-deploy)",
+              "Yii2 Deploy tool",
+              ""
+            ],
+            [
+              "7",
+              "[@sergeyklay](https://github.com/sergeyklay)/[**phalcon-compose**](https://github.com/sergeyklay/phalcon-compose)",
+              "Phalcon ready to go Docker Compose project.",
+              "[:arrow_upper_right:](https://github.com/sergeyklay/phalcon-compose)"
+            ],
+            [
+              "7",
+              "[@sergeyklay](https://github.com/sergeyklay)/[**gleez-gravatar**](https://github.com/sergeyklay/gleez-gravatar)",
+              "A lightweight PHP library providing easy gravatar integration for PHP 5.3 - 7 and HHVM",
+              "[:arrow_upper_right:](http://gleezcms.org)"
+            ],
+            [
+              "6",
+              "[@sergeyklay](https://github.com/sergeyklay)/[**phalcon-logentries**](https://github.com/sergeyklay/phalcon-logentries)",
+              "Sends log messages to the Logentries log management service",
+              ""
+            ],
+            [
+              "6",
+              "[@stfalcon](https://github.com/stfalcon)/[**NewsBundle**](https://github.com/stfalcon/NewsBundle)",
+              "Simple NewsBundle for Symfony2 and SonataAdmin",
+              ""
+            ],
+            [
+              "6",
+              "[@DavertMik](https://github.com/DavertMik)/[**Yii2-AspectMock**](https://github.com/DavertMik/Yii2-AspectMock)",
+              "sandbox with Yii2, Go Aop, AspectMock",
+              ""
+            ],
+            [
+              "5",
+              "[@makasim](https://github.com/makasim)/[**sfPhpunitNetbeansPlu…**](https://github.com/makasim/sfPhpunitNetbeansPlugin)",
+              "Easy run phpunit tests in NetBeans IDE",
+              ""
+            ],
+            [
+              "5",
+              "[@fre5h](https://github.com/fre5h)/[**TimestampableEntityB…**](https://github.com/fre5h/TimestampableEntityBundle)",
+              "Helper methods and properties for timestamping Doctrine2 entities.",
+              "[:arrow_upper_right:](https://github.com/fre5h/TimestampableEntityBundle)"
+            ],
+            [
+              "5",
+              "[@stfalcon](https://github.com/stfalcon)/[**PageBundle**](https://github.com/stfalcon/PageBundle)",
+              "Simple PageBundle for Symfony2 and SonataAdmin",
+              ""
+            ],
+            [
+              "5",
+              "[@stfalcon](https://github.com/stfalcon)/[**PaymentBundle**](https://github.com/stfalcon/PaymentBundle)",
+              "Payment bundle for Symfony2",
+              ""
+            ],
+            [
+              "4",
+              "[@DavertMik](https://github.com/DavertMik)/[**doAttachPlugin**](https://github.com/DavertMik/doAttachPlugin)",
+              "Symfony plugin that adds a Doctrine behavior to attach and store any file to any model",
+              ""
+            ],
+            [
+              "4",
+              "[@cystbear](https://github.com/cystbear)/[**PHPExcel**](https://github.com/cystbear/PHPExcel)",
+              "Mirror of official PHPExcel repository",
+              "[:arrow_upper_right:](http://www.phpexcel.net)"
+            ],
+            [
+              "4",
+              "[@DavertMik](https://github.com/DavertMik)/[**TestGuy_Standalone**](https://github.com/DavertMik/TestGuy_Standalone)",
+              "DEPRECATED. This project has evolved into Codeception",
+              "[:arrow_upper_right:](codeception.com)"
+            ],
+            [
+              "4",
+              "[@trntv](https://github.com/trntv)/[**yii2-bootstrap-datet…**](https://github.com/trntv/yii2-bootstrap-datetimepicker)",
+              "Yii2 DateTimePicker widget",
+              "[:arrow_upper_right:](http://yii2-starter-kit.terentev.net)"
+            ],
+            [
+              "3",
+              "[@makasim](https://github.com/makasim)/[**values**](https://github.com/makasim/values)",
+              "DEPRECATED. Use  https://github.com/makasim/yadm",
+              ""
+            ],
+            [
+              "3",
+              "[@fre5h](https://github.com/fre5h)/[**SinchBundle**](https://github.com/fre5h/SinchBundle)",
+              "Provides integration with Sinch.com SMS API.",
+              "[:arrow_upper_right:](https://www.sinch.com/docs/sms/)"
+            ],
+            [
+              "3",
+              "[@makasim](https://github.com/makasim)/[**doctrine-tester**](https://github.com/makasim/doctrine-tester)",
+              "A doctrine integration test helper",
+              ""
+            ],
+            [
+              "2",
+              "[@makasim](https://github.com/makasim)/[**sfPhpunitHelperPlugi…**](https://github.com/makasim/sfPhpunitHelperPlugin)",
+              "The plugin adds helpers for selenium functional tests. It makes easy to test mails sent to gmail, admin generated pages",
+              ""
+            ],
+            [
+              "2",
+              "[@makasim](https://github.com/makasim)/[**Domain_Model**](https://github.com/makasim/Domain_Model)",
+              "It is a way to work with models. You define API then make a method chain and in one query fetch all data you need.",
+              ""
+            ],
+            [
+              "2",
+              "[@makasim](https://github.com/makasim)/[**PayumModuleSandbox**](https://github.com/makasim/PayumModuleSandbox)",
+              "A sandbox for playing with payum module for zf2",
+              ""
+            ],
+            [
+              "2",
+              "[@uglide](https://github.com/uglide)/[**zfcore-autoupdate**](https://github.com/uglide/zfcore-autoupdate)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@uglide](https://github.com/uglide)/[**zfcore-transition**](https://github.com/uglide/zfcore-transition)",
+              "Transition fork of ZFCore",
+              ""
+            ],
+            [
+              "2",
+              "[@cystbear](https://github.com/cystbear)/[**system**](https://github.com/cystbear/system)",
+              "system",
+              ""
+            ],
+            [
+              "2",
+              "[@makasim](https://github.com/makasim)/[**fpBackupPlugin**](https://github.com/makasim/fpBackupPlugin)",
+              "Make backuping of mysql db easy.",
+              ""
+            ],
+            [
+              "2",
+              "[@DavertMik](https://github.com/DavertMik)/[**WebDriverDemos**](https://github.com/DavertMik/WebDriverDemos)",
+              "Comparison of PHP webdriver clients: instaclick/facebook/phpunit",
+              ""
+            ],
+            [
+              "2",
+              "[@DavertMik](https://github.com/DavertMik)/[**doStaticPagePlugin**](https://github.com/DavertMik/doStaticPagePlugin)",
+              "A very basic symfony CMS for projects where you need only 2-3 static pages",
+              ""
+            ],
+            [
+              "2",
+              "[@trntv](https://github.com/trntv)/[**systeminfo**](https://github.com/trntv/systeminfo)",
+              "Simple system information helper",
               ""
             ]
           ]
