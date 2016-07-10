@@ -54,7 +54,8 @@
           "[ActionScript](#actionscript)",
           "[Clojure](#clojure)",
           "[CoffeeScript](#coffeescript)",
-          "[Go](#go)"
+          "[Go](#go)",
+          "[Haskell](#haskell)"
         ]
       },
       {
@@ -1999,6 +2000,51 @@
               "2",
               "[@vchimishuk](https://github.com/vchimishuk)/[**cue-go**](https://github.com/vchimishuk/cue-go)",
               "Go cue parser package",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Haskell #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "10",
+              "[@esmolanka](https://github.com/esmolanka)/[**sexp-grammar**](https://github.com/esmolanka/sexp-grammar)",
+              "Invertible syntax for serializing and deserializing Haskell structures from S-expressions",
+              ""
+            ],
+            [
+              "3",
+              "[@ony](https://github.com/ony)/[**yampa-glut**](https://github.com/ony/yampa-glut)",
+              "Yampa adapter for GLUT",
+              ""
+            ],
+            [
+              "2",
+              "[@esmolanka](https://github.com/esmolanka)/[**icfpc2014**](https://github.com/esmolanka/icfpc2014)",
+              "ICFPC2014 / Cofree Coriders team",
+              ""
+            ],
+            [
+              "2",
+              "[@vasylp](https://github.com/vasylp)/[**serialtalk**](https://github.com/vasylp/serialtalk)",
+              "A tiny haskell utility that works similar to minicom runscript but with better logging and control",
+              ""
+            ],
+            [
+              "2",
+              "[@vasylp](https://github.com/vasylp)/[**hgettext**](https://github.com/vasylp/hgettext)",
+              "hgettext a simple wrapper to libintl and gettext to provide localization in Haskell applications",
               ""
             ]
           ]
