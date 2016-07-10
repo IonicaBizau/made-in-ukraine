@@ -46,7 +46,8 @@
       },
       {
         "ul": [
-          "[JavaScript](#javascript)"
+          "[JavaScript](#javascript)",
+          "[Java](#java)"
         ]
       },
       {
@@ -665,6 +666,513 @@
               "2",
               "[@sudodoki](https://github.com/sudodoki)/[**aleph-box**](https://github.com/sudodoki/aleph-box)",
               "No backend javascript anything stubber aka Chance.js without all the parens",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Java #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "3437",
+              "[@makovkastar](https://github.com/makovkastar)/[**FloatingActionButton**](https://github.com/makovkastar/FloatingActionButton)",
+              "Android floating action button",
+              ""
+            ],
+            [
+              "3294",
+              "[@dmytrodanylyk](https://github.com/dmytrodanylyk)/[**circular-progress-bu…**](https://github.com/dmytrodanylyk/circular-progress-button)",
+              "Android Circular Progress Button",
+              "[:arrow_upper_right:](http://dmytrodanylyk.com/pages/portfolio/circular-progress-button.html)"
+            ],
+            [
+              "2165",
+              "[@dmytrodanylyk](https://github.com/dmytrodanylyk)/[**android-process-butt…**](https://github.com/dmytrodanylyk/android-process-button)",
+              "Android Buttons With Built-in Progress Meters.",
+              "[:arrow_upper_right:](http://dmytrodanylyk.com/pages/portfolio/portfolio-process-button.html)"
+            ],
+            [
+              "1259",
+              "[@danylovolokh](https://github.com/danylovolokh)/[**VideoPlayerManager**](https://github.com/danylovolokh/VideoPlayerManager)",
+              "This is a project designed to help controlling Android MediaPlayer class. It makes it easier to use MediaPlayer ListView and RecyclerView. Also it tracks the most visible item in scrolling list. When new item in the list become the most visible, this library gives an API to track it.",
+              ""
+            ],
+            [
+              "1219",
+              "[@bmelnychuk](https://github.com/bmelnychuk)/[**AndroidTreeView**](https://github.com/bmelnychuk/AndroidTreeView)",
+              "AndroidTreeView. TreeView implementation for android",
+              ""
+            ],
+            [
+              "881",
+              "[@dmytrodanylyk](https://github.com/dmytrodanylyk)/[**folding-plugin**](https://github.com/dmytrodanylyk/folding-plugin)",
+              "Android File Grouping Plugin",
+              "[:arrow_upper_right:](http://www.dmytrodanylyk.com/pages/blog/android-file-grouping.html)"
+            ],
+            [
+              "760",
+              "[@dmytrodanylyk](https://github.com/dmytrodanylyk)/[**shadow-layout**](https://github.com/dmytrodanylyk/shadow-layout)",
+              "Android Shadow Layout",
+              ""
+            ],
+            [
+              "706",
+              "[@GIGAMOLE](https://github.com/GIGAMOLE)/[**ArcProgressStackView**](https://github.com/GIGAMOLE/ArcProgressStackView)",
+              "Present your progress bars in arc mode with information and total control.",
+              ""
+            ],
+            [
+              "694",
+              "[@shell-software](https://github.com/shell-software)/[**fab**](https://github.com/shell-software/fab)",
+              "Floating Action Button Library for Android",
+              ""
+            ],
+            [
+              "663",
+              "[@AChep](https://github.com/AChep)/[**AcDisplay**](https://github.com/AChep/AcDisplay)",
+              "AcDisplay is a new way of handling notifications in Android.",
+              "[:arrow_upper_right:](acdisplay.org)"
+            ],
+            [
+              "591",
+              "[@danylovolokh](https://github.com/danylovolokh)/[**LondonEyeLayoutManag…**](https://github.com/danylovolokh/LondonEyeLayoutManager)",
+              "A Layoutmanager that must be used with RecyclerView. When list is scrolled views are moved by circular trajectory",
+              ""
+            ],
+            [
+              "523",
+              "[@danylovolokh](https://github.com/danylovolokh)/[**HashTagHelper**](https://github.com/danylovolokh/HashTagHelper)",
+              "This is a library designed for highlighting hashtags (\"#example\") and catching click on them.",
+              ""
+            ],
+            [
+              "511",
+              "[@AChep](https://github.com/AChep)/[**Header2ActionBar**](https://github.com/AChep/Header2ActionBar)",
+              "",
+              ""
+            ],
+            [
+              "492",
+              "[@aNNiMON](https://github.com/aNNiMON)/[**Lightweight-Stream-A…**](https://github.com/aNNiMON/Lightweight-Stream-API)",
+              "Stream API from Java 8 rewritten on iterators for Java 7 and below",
+              ""
+            ],
+            [
+              "397",
+              "[@atermenji](https://github.com/atermenji)/[**IconicDroid**](https://github.com/atermenji/IconicDroid)",
+              "IconicDroid is a custom Android Drawable which allows to draw icons from several iconic fonts.",
+              ""
+            ],
+            [
+              "390",
+              "[@alexzaitsev](https://github.com/alexzaitsev)/[**freepager**](https://github.com/alexzaitsev/freepager)",
+              "ViewPagers library for Android",
+              ""
+            ],
+            [
+              "380",
+              "[@dmytrodanylyk](https://github.com/dmytrodanylyk)/[**android-morphing-but…**](https://github.com/dmytrodanylyk/android-morphing-button)",
+              "Android Morphing Button",
+              ""
+            ],
+            [
+              "298",
+              "[@blynkkk](https://github.com/blynkkk)/[**blynk-server**](https://github.com/blynkkk/blynk-server)",
+              "Platform with iOs and Android apps to control Arduino, Raspberry Pi and similar microcontroller boards over the Internet.",
+              "[:arrow_upper_right:](http://www.blynk.cc/)"
+            ],
+            [
+              "276",
+              "[@dmytrodanylyk](https://github.com/dmytrodanylyk)/[**video-crop**](https://github.com/dmytrodanylyk/video-crop)",
+              "Android Video Crop",
+              ""
+            ],
+            [
+              "242",
+              "[@dmytrodanylyk](https://github.com/dmytrodanylyk)/[**realm-browser**](https://github.com/dmytrodanylyk/realm-browser)",
+              "Android Realm Database Browser",
+              ""
+            ],
+            [
+              "221",
+              "[@shyiko](https://github.com/shyiko)/[**mysql-binlog-connect…**](https://github.com/shyiko/mysql-binlog-connector-java)",
+              "MySQL Binary Log connector",
+              ""
+            ],
+            [
+              "186",
+              "[@GIGAMOLE](https://github.com/GIGAMOLE)/[**TintLayout**](https://github.com/GIGAMOLE/TintLayout)",
+              "This library help you to achieve popular drop shadow effect from view.",
+              ""
+            ],
+            [
+              "165",
+              "[@makovkastar](https://github.com/makovkastar)/[**LetterImageView**](https://github.com/makovkastar/LetterImageView)",
+              "A simple Android ImageView implementation which draws a letter on a randomly colored background.",
+              ""
+            ],
+            [
+              "155",
+              "[@danylovolokh](https://github.com/danylovolokh)/[**ImageTransition**](https://github.com/danylovolokh/ImageTransition)",
+              "This is a pet project that shows how to implement shared element image transition between activities on pre-Lollipop devices on Android.",
+              ""
+            ],
+            [
+              "117",
+              "[@AChep](https://github.com/AChep)/[**HeadsUp**](https://github.com/AChep/HeadsUp)",
+              "Simple implementation of floating notifications.",
+              ""
+            ],
+            [
+              "90",
+              "[@dkvashninbay](https://github.com/dkvashninbay)/[**magento2plugin**](https://github.com/dkvashninbay/magento2plugin)",
+              "",
+              ""
+            ],
+            [
+              "90",
+              "[@GIGAMOLE](https://github.com/GIGAMOLE)/[**CutIntoLayout**](https://github.com/GIGAMOLE/CutIntoLayout)",
+              "CutIntoLayout allows you to erase the background.",
+              ""
+            ],
+            [
+              "73",
+              "[@alexzaitsev](https://github.com/alexzaitsev)/[**android-styler**](https://github.com/alexzaitsev/android-styler)",
+              "Android Studio / IDEA plugin that helps to create styles",
+              ""
+            ],
+            [
+              "54",
+              "[@aNNiMON](https://github.com/aNNiMON)/[**Android-Java-8-Strea…**](https://github.com/aNNiMON/Android-Java-8-Stream-Example)",
+              "Demo app of using Java 8 features with Retrolambda and Lightweight-Stream-API",
+              ""
+            ],
+            [
+              "53",
+              "[@dmytrodanylyk](https://github.com/dmytrodanylyk)/[**android-concurrent-d…**](https://github.com/dmytrodanylyk/android-concurrent-database)",
+              "Sample of concurrent safe access to Android SQLite Database",
+              "[:arrow_upper_right:](http://dmytrodanylyk.com/)"
+            ],
+            [
+              "51",
+              "[@yakivmospan](https://github.com/yakivmospan)/[**gists**](https://github.com/yakivmospan/gists)",
+              "Repository was desired and is made to store Android reusable code in a way of simple markdown files and java classes.",
+              "[:arrow_upper_right:](http://yakivmospan.com/)"
+            ],
+            [
+              "51",
+              "[@shell-software](https://github.com/shell-software)/[**viewmover**](https://github.com/shell-software/viewmover)",
+              "View Mover Library for Android",
+              ""
+            ],
+            [
+              "42",
+              "[@dmytrodanylyk](https://github.com/dmytrodanylyk)/[**lazy-data-loading**](https://github.com/dmytrodanylyk/lazy-data-loading)",
+              "Sample demonstrate hot to load data from SQLite and parse it from Cursor on the fly when you need it.",
+              ""
+            ],
+            [
+              "40",
+              "[@dmytrodanylyk](https://github.com/dmytrodanylyk)/[**android-data-sync-sa…**](https://github.com/dmytrodanylyk/android-data-sync-sample)",
+              "http://www.dmytrodanylyk.com/android-dat…",
+              ""
+            ],
+            [
+              "34",
+              "[@aNNiMON](https://github.com/aNNiMON)/[**PaperStyleWidgets**](https://github.com/aNNiMON/PaperStyleWidgets)",
+              "Android material-design widgets",
+              ""
+            ],
+            [
+              "32",
+              "[@bmelnychuk](https://github.com/bmelnychuk)/[**WearCircleMenu**](https://github.com/bmelnychuk/WearCircleMenu)",
+              "Animated CircleMenu for wear devices",
+              ""
+            ],
+            [
+              "31",
+              "[@dmytrodanylyk](https://github.com/dmytrodanylyk)/[**presenter-example**](https://github.com/dmytrodanylyk/presenter-example)",
+              "",
+              ""
+            ],
+            [
+              "28",
+              "[@GIGAMOLE](https://github.com/GIGAMOLE)/[**MillSpinners**](https://github.com/GIGAMOLE/MillSpinners)",
+              "The set of useful and beautiful spinners.",
+              ""
+            ],
+            [
+              "28",
+              "[@igor-petruk](https://github.com/igor-petruk)/[**protobuf-maven-plugi…**](https://github.com/igor-petruk/protobuf-maven-plugin)",
+              "Protobuf Maven Plugin",
+              "[:arrow_upper_right:](http://igor-petruk.github.com/protobuf-maven-plugin/)"
+            ],
+            [
+              "25",
+              "[@stokito](https://github.com/stokito)/[**gag**](https://github.com/stokito/gag)",
+              "This project is a fork of Google Annotation Gallery. Original homepage of GAG is hosetd here http://code.google.com/p/gag/",
+              ""
+            ],
+            [
+              "23",
+              "[@GIGAMOLE](https://github.com/GIGAMOLE)/[**SlideImageView**](https://github.com/GIGAMOLE/SlideImageView)",
+              "Simple and convenient library that allows you to slide images through a view.",
+              ""
+            ],
+            [
+              "18",
+              "[@shyiko](https://github.com/shyiko)/[**rook**](https://github.com/shyiko/rook)",
+              "Change Data Capture (CDC) toolkit for keeping system layers in sync with the database",
+              ""
+            ],
+            [
+              "17",
+              "[@yakivmospan](https://github.com/yakivmospan)/[**volley-request-manag…**](https://github.com/yakivmospan/volley-request-manager)",
+              "",
+              ""
+            ],
+            [
+              "17",
+              "[@aNNiMON](https://github.com/aNNiMON)/[**dex-editor**](https://github.com/aNNiMON/dex-editor)",
+              "Edit the dalvik-bytecode on Android.",
+              "[:arrow_upper_right:](https://code.google.com/p/dex-editor/)"
+            ],
+            [
+              "17",
+              "[@edBaev](https://github.com/edBaev)/[**swipe-sticky-listvie…**](https://github.com/edBaev/swipe-sticky-listview)",
+              "joining swipe and sticky listsviews",
+              ""
+            ],
+            [
+              "15",
+              "[@atermenji](https://github.com/atermenji)/[**robotium-actionbarsh…**](https://github.com/atermenji/robotium-actionbarsherlock)",
+              "Robotium extension with ActionBarSherlock support.",
+              ""
+            ],
+            [
+              "15",
+              "[@makovkastar](https://github.com/makovkastar)/[**CallMeBack**](https://github.com/makovkastar/CallMeBack)",
+              "Поможет отправить запрос \"Перезвони мне\", если на счету закончились деньги.",
+              ""
+            ],
+            [
+              "12",
+              "[@aNNiMON](https://github.com/aNNiMON)/[**Own-Programming-Lang…**](https://github.com/aNNiMON/Own-Programming-Language-Tutorial)",
+              "Репозиторий курса \"Как создать свой язык программирования\" https://www.youtube.com/playlist?list=PL…",
+              ""
+            ],
+            [
+              "12",
+              "[@shell-software](https://github.com/shell-software)/[**uitools**](https://github.com/shell-software/uitools)",
+              "UI Tools Library for Android",
+              ""
+            ],
+            [
+              "12",
+              "[@AChep](https://github.com/AChep)/[**JellyBeanClock**](https://github.com/AChep/JellyBeanClock)",
+              "Simple custom drawing android analog clock (UI from Jelly Bean 4.2)",
+              ""
+            ],
+            [
+              "10",
+              "[@stokito](https://github.com/stokito)/[**FreeTTSLog4JAppender**](https://github.com/stokito/FreeTTSLog4JAppender)",
+              "Talking log appender to keep your eyes :)",
+              "[:arrow_upper_right:](https://github.com/stokito/FreeTTSLog4JDemo)"
+            ],
+            [
+              "9",
+              "[@AChep](https://github.com/AChep)/[**FifteenPuzzle**](https://github.com/AChep/FifteenPuzzle)",
+              "Logical game Fifteen Puzzle",
+              ""
+            ],
+            [
+              "9",
+              "[@stokito](https://github.com/stokito)/[**IdeaSingletonInspect…**](https://github.com/stokito/IdeaSingletonInspection)",
+              "Inspection for (probably) inappropriate use of Singleton pattern",
+              "[:arrow_upper_right:](https://plugins.jetbrains.com/plugin/6015)"
+            ],
+            [
+              "9",
+              "[@stokito](https://github.com/stokito)/[**OCPJP**](https://github.com/stokito/OCPJP)",
+              "Интересные задачки из экзамена Oracle Certified Professional Java Programmer",
+              "[:arrow_upper_right:](http://stokito.blogspot.com/2011/04/oracle-certified-professional-java.html)"
+            ],
+            [
+              "9",
+              "[@GIGAMOLE](https://github.com/GIGAMOLE)/[**NEON**](https://github.com/GIGAMOLE/NEON)",
+              "The simple open-source player which include music visualizations and equalizer.",
+              ""
+            ],
+            [
+              "8",
+              "[@shell-software](https://github.com/shell-software)/[**tree**](https://github.com/shell-software/tree)",
+              "Tree Data Structure Java Library",
+              ""
+            ],
+            [
+              "8",
+              "[@shyiko](https://github.com/shyiko)/[**servers-maven-extens…**](https://github.com/shyiko/servers-maven-extension)",
+              "Maven extension for exposing settings.xml/servers to ${}",
+              ""
+            ],
+            [
+              "7",
+              "[@danylovolokh](https://github.com/danylovolokh)/[**MidPointCircleExplai…**](https://github.com/danylovolokh/MidPointCircleExplained)",
+              "This is a project that helps to understand how \"Mid Point Circle\" algorithm works and how it is modified for LondonEyeLayoutManager project",
+              ""
+            ],
+            [
+              "7",
+              "[@roman-mazur](https://github.com/roman-mazur)/[**async2014**](https://github.com/roman-mazur/async2014)",
+              "Example of an Android project that loads tweets using Helium, Enroscar Async, and Goro + RxJava sample",
+              ""
+            ],
+            [
+              "6",
+              "[@dmytrodanylyk](https://github.com/dmytrodanylyk)/[**android-animations**](https://github.com/dmytrodanylyk/android-animations)",
+              "",
+              ""
+            ],
+            [
+              "6",
+              "[@bmelnychuk](https://github.com/bmelnychuk)/[**outlay**](https://github.com/bmelnychuk/outlay)",
+              "Expense tracker implementation",
+              ""
+            ],
+            [
+              "5",
+              "[@AChep](https://github.com/AChep)/[**RingLocker**](https://github.com/AChep/RingLocker)",
+              "",
+              ""
+            ],
+            [
+              "5",
+              "[@makovkastar](https://github.com/makovkastar)/[**dashclock-mailru-ext…**](https://github.com/makovkastar/dashclock-mailru-extenstion)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@bmelnychuk](https://github.com/bmelnychuk)/[**LogosLviv**](https://github.com/bmelnychuk/LogosLviv)",
+              "TODO",
+              ""
+            ],
+            [
+              "4",
+              "[@aNNiMON](https://github.com/aNNiMON)/[**Flood-It-Bot**](https://github.com/aNNiMON/Flood-It-Bot)",
+              "Universal bot for flood-it games",
+              ""
+            ],
+            [
+              "3",
+              "[@shyiko](https://github.com/shyiko)/[**usage-maven-plugin**](https://github.com/shyiko/usage-maven-plugin)",
+              "Maven Plugin for printing project Usage information",
+              ""
+            ],
+            [
+              "3",
+              "[@yakivmospan](https://github.com/yakivmospan)/[**volley-request-manag…**](https://github.com/yakivmospan/volley-request-manager-lite)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@AChep](https://github.com/AChep)/[**ChartView**](https://github.com/AChep/ChartView)",
+              "A little charts library for Android (in heavy dev) ",
+              ""
+            ],
+            [
+              "3",
+              "[@Yarikx](https://github.com/Yarikx)/[**shAirCard**](https://github.com/Yarikx/shAirCard)",
+              "sharing vcards",
+              ""
+            ],
+            [
+              "3",
+              "[@igor-petruk](https://github.com/igor-petruk)/[**maven-archetype-exec…**](https://github.com/igor-petruk/maven-archetype-executable)",
+              "This is Maven archetype that produces executable jars like NetBeans does (deps in lib/)",
+              ""
+            ],
+            [
+              "3",
+              "[@igor-petruk](https://github.com/igor-petruk)/[**orchid**](https://github.com/igor-petruk/orchid)",
+              "Orchid Filesystem",
+              ""
+            ],
+            [
+              "3",
+              "[@alexzaitsev](https://github.com/alexzaitsev)/[**android-fragment-dia…**](https://github.com/alexzaitsev/android-fragment-dialogs)",
+              "Simple dialogs with DialogFragment",
+              ""
+            ],
+            [
+              "3",
+              "[@alexzaitsev](https://github.com/alexzaitsev)/[**maven-test**](https://github.com/alexzaitsev/maven-test)",
+              "Test project for Yalantis maven tutorial",
+              ""
+            ],
+            [
+              "2",
+              "[@danylovolokh](https://github.com/danylovolokh)/[**TestAsyncrounousAndr…**](https://github.com/danylovolokh/TestAsyncrounousAndroid)",
+              "This is a project that descirbes how easily we can test asynchronous actions in Android",
+              ""
+            ],
+            [
+              "2",
+              "[@shyiko](https://github.com/shyiko)/[**hadoop-maven-plugin**](https://github.com/shyiko/hadoop-maven-plugin)",
+              "Maven Plugin for Apache Hadoop",
+              ""
+            ],
+            [
+              "2",
+              "[@stokito](https://github.com/stokito)/[**UnitilsTutorial**](https://github.com/stokito/UnitilsTutorial)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@Yarikx](https://github.com/Yarikx)/[**Oboobs**](https://github.com/Yarikx/Oboobs)",
+              "Android application for oboobs.ru service",
+              ""
+            ],
+            [
+              "2",
+              "[@stokito](https://github.com/stokito)/[**OrderFood**](https://github.com/stokito/OrderFood)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@AChep](https://github.com/AChep)/[**AliveDotsWallpaper**](https://github.com/AChep/AliveDotsWallpaper)",
+              "Awesome OpenGL ES 2.0 based live wallpaper",
+              ""
+            ],
+            [
+              "2",
+              "[@berezovskyi](https://github.com/berezovskyi)/[**checkbleed**](https://github.com/berezovskyi/checkbleed)",
+              "Java command-line utility for batch URL checking for Heartbleed vulnerability",
+              ""
+            ],
+            [
+              "2",
+              "[@laa](https://github.com/laa)/[**dou_rw_lock**](https://github.com/laa/dou_rw_lock)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@danylovolokh](https://github.com/danylovolokh)/[**PermissionsReference**](https://github.com/danylovolokh/PermissionsReference)",
+              "The purpose of this project is to create an exhaustive reference of methods that developers have to take into account while implementing Runtime Permissions in Android Marshmallow and higher.",
               ""
             ]
           ]
