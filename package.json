@@ -55,7 +55,8 @@
           "[Clojure](#clojure)",
           "[CoffeeScript](#coffeescript)",
           "[Go](#go)",
-          "[Haskell](#haskell)"
+          "[Haskell](#haskell)",
+          "[Lua](#lua)"
         ]
       },
       {
@@ -2045,6 +2046,69 @@
               "2",
               "[@vasylp](https://github.com/vasylp)/[**hgettext**](https://github.com/vasylp/hgettext)",
               "hgettext a simple wrapper to libintl and gettext to provide localization in Haskell applications",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Lua #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "219",
+              "[@stobenski](https://github.com/stobenski)/[**pro**](https://github.com/stobenski/pro)",
+              "Awesome Pro themes",
+              ""
+            ],
+            [
+              "52",
+              "[@alexander-yakushev](https://github.com/alexander-yakushev)/[**awesompd**](https://github.com/alexander-yakushev/awesompd)",
+              "Advanced mpd widget for Awesome WM",
+              ""
+            ],
+            [
+              "31",
+              "[@alexander-yakushev](https://github.com/alexander-yakushev)/[**awesomerc**](https://github.com/alexander-yakushev/awesomerc)",
+              "My awesome configuration",
+              ""
+            ],
+            [
+              "24",
+              "[@alexander-yakushev](https://github.com/alexander-yakushev)/[**Orglendar**](https://github.com/alexander-yakushev/Orglendar)",
+              "Calendar widget with org-mode schedule list for Awesome WM",
+              ""
+            ],
+            [
+              "12",
+              "[@alexander-yakushev](https://github.com/alexander-yakushev)/[**conscience-awesome-t…**](https://github.com/alexander-yakushev/conscience-awesome-theme)",
+              "Advanced theme for Awesome WM",
+              ""
+            ],
+            [
+              "11",
+              "[@alexander-yakushev](https://github.com/alexander-yakushev)/[**menubar**](https://github.com/alexander-yakushev/menubar)",
+              "DEPRECATED: Dmenu-like menu extension for Awesome WM",
+              ""
+            ],
+            [
+              "9",
+              "[@alexander-yakushev](https://github.com/alexander-yakushev)/[**infojets**](https://github.com/alexander-yakushev/infojets)",
+              "Specific widget library for Awesome WM",
+              ""
+            ],
+            [
+              "3",
+              "[@Fkids](https://github.com/Fkids)/[**JC2MP-ExtraSeats**](https://github.com/Fkids/JC2MP-ExtraSeats)",
+              "Implementation of additional vehicle seats for JC2MP.",
               ""
             ]
           ]
