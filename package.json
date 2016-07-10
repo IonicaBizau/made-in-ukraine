@@ -48,7 +48,8 @@
         "ul": [
           "[JavaScript](#javascript)",
           "[Java](#java)",
-          "[C#](#c-1)"
+          "[C#](#c-1)",
+          "[C](undefined)"
         ]
       },
       {
@@ -1459,6 +1460,207 @@
               "2",
               "[@dimapasko](https://github.com/dimapasko)/[**GitIoSharp**](https://github.com/dimapasko/GitIoSharp)",
               "C# wrapper for Git.io: GitHub URL Shortener",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "C #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "23",
+              "[@sk1project](https://github.com/sk1project)/[**sk1-wx**](https://github.com/sk1project/sk1-wx)",
+              "sK1 2.0 multiplatform vector graphics editor",
+              ""
+            ],
+            [
+              "23",
+              "[@mik9](https://github.com/mik9)/[**ThunderG-Kernel**](https://github.com/mik9/ThunderG-Kernel)",
+              "Kernel for Optimus p500 & Optimus p509",
+              ""
+            ],
+            [
+              "22",
+              "[@EarlGray](https://github.com/EarlGray)/[**SECD**](https://github.com/EarlGray/SECD)",
+              "Scheme on SECD",
+              ""
+            ],
+            [
+              "18",
+              "[@EarlGray](https://github.com/EarlGray)/[**COSEC**](https://github.com/EarlGray/COSEC)",
+              "the Coolest OS Ever Created",
+              ""
+            ],
+            [
+              "18",
+              "[@DK22Pac](https://github.com/DK22Pac)/[**plugin-sdk**](https://github.com/DK22Pac/plugin-sdk)",
+              "An SDK for developing plugins for GTA San Andreas and GTA Vice City",
+              ""
+            ],
+            [
+              "18",
+              "[@Kuzma30](https://github.com/Kuzma30)/[**kernel3NookTablet**](https://github.com/Kuzma30/kernel3NookTablet)",
+              "This is adaptation of git://git.omapzoom.org/kernel/omap.git to Nook Tablet",
+              ""
+            ],
+            [
+              "13",
+              "[@pasis](https://github.com/pasis)/[**pppoat**](https://github.com/pasis/pppoat)",
+              "PPPoAT - PPP over Any Transport",
+              ""
+            ],
+            [
+              "8",
+              "[@grouzen](https://github.com/grouzen)/[**shooter**](https://github.com/grouzen/shooter)",
+              "Simple text-based multiplayer network shooter.",
+              ""
+            ],
+            [
+              "8",
+              "[@mik9](https://github.com/mik9)/[**lg_thunderg_android_…**](https://github.com/mik9/lg_thunderg_android_bootable_recovery)",
+              "ClockworkMod Recovery for LG Optimus One",
+              ""
+            ],
+            [
+              "7",
+              "[@pfactum](https://github.com/pfactum)/[**libpfrng**](https://github.com/pfactum/libpfrng)",
+              "CPU jitter-based RNG",
+              ""
+            ],
+            [
+              "7",
+              "[@pasis](https://github.com/pasis)/[**setools-android**](https://github.com/pasis/setools-android)",
+              "Unofficial port of setools to Android",
+              "[:arrow_upper_right:](http://oss.tresys.com/projects/setools)"
+            ],
+            [
+              "6",
+              "[@DK22Pac](https://github.com/DK22Pac)/[**vice-37**](https://github.com/DK22Pac/vice-37)",
+              "Vice City ported to RW3.7",
+              ""
+            ],
+            [
+              "6",
+              "[@sashao](https://github.com/sashao)/[**martlet**](https://github.com/sashao/martlet)",
+              "Qt4 developer tools",
+              "[:arrow_upper_right:](home.html)"
+            ],
+            [
+              "5",
+              "[@mik9](https://github.com/mik9)/[**acclaim_cyanoboot**](https://github.com/mik9/acclaim_cyanoboot)",
+              "Cyanoboot bootloader for Nook Tablet",
+              ""
+            ],
+            [
+              "4",
+              "[@pasis](https://github.com/pasis)/[**ls-fuse**](https://github.com/pasis/ls-fuse)",
+              "FUSE module to mount `ls -lR` output",
+              ""
+            ],
+            [
+              "4",
+              "[@Kuzma30](https://github.com/Kuzma30)/[**kernel32nooktablet**](https://github.com/Kuzma30/kernel32nooktablet)",
+              "3.2 kernel branch for NookTbalet",
+              ""
+            ],
+            [
+              "3",
+              "[@pfactum](https://github.com/pfactum)/[**kernelat**](https://github.com/pfactum/kernelat)",
+              "Userspace tool for desktop interactivity measurement",
+              ""
+            ],
+            [
+              "3",
+              "[@pfactum](https://github.com/pfactum)/[**pcapc**](https://github.com/pfactum/pcapc)",
+              "pcapc - libpcap filter expressions compiler",
+              ""
+            ],
+            [
+              "3",
+              "[@sjinks](https://github.com/sjinks)/[**ngx_tcpwrappers**](https://github.com/sjinks/ngx_tcpwrappers)",
+              "TCP Wrapper support for nginx",
+              ""
+            ],
+            [
+              "3",
+              "[@grouzen](https://github.com/grouzen)/[**fflisp**](https://github.com/grouzen/fflisp)",
+              "Small LISP interpreter for training",
+              ""
+            ],
+            [
+              "3",
+              "[@mik9](https://github.com/mik9)/[**android_kernel_accla…**](https://github.com/mik9/android_kernel_acclaim)",
+              "Kernel for Nook Tablet.",
+              ""
+            ],
+            [
+              "3",
+              "[@grouzen](https://github.com/grouzen)/[**xinb**](https://github.com/grouzen/xinb)",
+              "Xinb is not a bot. Shell over XMPP.",
+              ""
+            ],
+            [
+              "3",
+              "[@age](https://github.com/age)/[**mss**](https://github.com/age/mss)",
+              "Sources for Multi Sensor Station.",
+              ""
+            ],
+            [
+              "3",
+              "[@mik9](https://github.com/mik9)/[**android_system_bluet…**](https://github.com/mik9/android_system_bluetooth)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@sjinks](https://github.com/sjinks)/[**ssh-honeypotd**](https://github.com/sjinks/ssh-honeypotd)",
+              "A low-interaction SSH honeypot written in C",
+              ""
+            ],
+            [
+              "2",
+              "[@JDevs](https://github.com/JDevs)/[**OWL-Predator-KERNEL**](https://github.com/JDevs/OWL-Predator-KERNEL)",
+              "Kernel for MSM7X27 [OWL-Predator]",
+              ""
+            ],
+            [
+              "2",
+              "[@age](https://github.com/age)/[**kraken**](https://github.com/age/kraken)",
+              "a kernel.",
+              ""
+            ],
+            [
+              "2",
+              "[@Kuzma30](https://github.com/Kuzma30)/[**NT34K**](https://github.com/Kuzma30/NT34K)",
+              "Nook Tablet 3.4 kernel repo",
+              ""
+            ],
+            [
+              "2",
+              "[@PhoenixBlack](https://github.com/PhoenixBlack)/[**gm_turbostroi**](https://github.com/PhoenixBlack/gm_turbostroi)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@PhoenixBlack](https://github.com/PhoenixBlack)/[**X-Space**](https://github.com/PhoenixBlack/X-Space)",
+              "X-Space - aerospace simulation plugin that extends spaceflight capabilities of X-Plane flight simulator.",
+              ""
+            ],
+            [
+              "2",
+              "[@sashao](https://github.com/sashao)/[**msp430robot**](https://github.com/sashao/msp430robot)",
+              "Code for our launchpad based robot, sensors, sound, servo motors and dc motors usage",
               ""
             ]
           ]
