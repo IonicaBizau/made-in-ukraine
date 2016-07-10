@@ -57,7 +57,8 @@
           "[Go](#go)",
           "[Haskell](#haskell)",
           "[Lua](#lua)",
-          "[Matlab](#matlab)"
+          "[Matlab](#matlab)",
+          "[Objective-C](#objective-c)"
         ]
       },
       {
@@ -2131,6 +2132,189 @@
               "4",
               "[@abill](https://github.com/abill)/[**DeBlur**](https://github.com/abill/DeBlur)",
               "motion blur healing matlab project",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Objective-C #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "995",
+              "[@ArtFeel](https://github.com/ArtFeel)/[**AFViewShaker**](https://github.com/ArtFeel/AFViewShaker)",
+              "",
+              ""
+            ],
+            [
+              "735",
+              "[@DenHeadless](https://github.com/DenHeadless)/[**Shapes**](https://github.com/DenHeadless/Shapes)",
+              "Framework for drawing and animating shaped views on iOS",
+              ""
+            ],
+            [
+              "447",
+              "[@DenHeadless](https://github.com/DenHeadless)/[**ZoomInteractiveTrans…**](https://github.com/DenHeadless/ZoomInteractiveTransition)",
+              "Simple zoom transition using iOS 7 Custom View Controller Transitions API",
+              ""
+            ],
+            [
+              "94",
+              "[@SlavaBushtruk](https://github.com/SlavaBushtruk)/[**Alterplay-iOS-dev-ti…**](https://github.com/SlavaBushtruk/Alterplay-iOS-dev-tips)",
+              "We often discover simple solution while working on our games and apps for iPhone",
+              "[:arrow_upper_right:](http://www.alterplay.com/ios-dev-tips/)"
+            ],
+            [
+              "56",
+              "[@DenHeadless](https://github.com/DenHeadless)/[**DTInlineDatePicker**](https://github.com/DenHeadless/DTInlineDatePicker)",
+              "Display UIDatePicker inline easily!",
+              ""
+            ],
+            [
+              "45",
+              "[@dimazen](https://github.com/dimazen)/[**map_index**](https://github.com/dimazen/map_index)",
+              "Map Index",
+              ""
+            ],
+            [
+              "23",
+              "[@DenHeadless](https://github.com/DenHeadless)/[**DTPickerPresenter**](https://github.com/DenHeadless/DTPickerPresenter)",
+              "Modern wrapper for UIDatePicker and UIPickerView presentation.",
+              ""
+            ],
+            [
+              "21",
+              "[@advantis](https://github.com/advantis)/[**ADVUserDefaults**](https://github.com/advantis/ADVUserDefaults)",
+              "NSUserDefaults wrapper that simplifies and formalizes interaction with the User Defaults System",
+              ""
+            ],
+            [
+              "12",
+              "[@DenHeadless](https://github.com/DenHeadless)/[**DTRequestVerifier**](https://github.com/DenHeadless/DTRequestVerifier)",
+              "Easy, extensible NSURLRequest verification",
+              ""
+            ],
+            [
+              "11",
+              "[@DenHeadless](https://github.com/DenHeadless)/[**DTLocationManager**](https://github.com/DenHeadless/DTLocationManager)",
+              "Simple location manager for iOS and Mac OS X",
+              ""
+            ],
+            [
+              "11",
+              "[@DenHeadless](https://github.com/DenHeadless)/[**CustomCollectionView…**](https://github.com/DenHeadless/CustomCollectionViewFlowLayout)",
+              "Transform UICollectionView to your needs easily!",
+              ""
+            ],
+            [
+              "11",
+              "[@dodikk](https://github.com/dodikk)/[**ESLocale**](https://github.com/dodikk/ESLocale)",
+              "This library contains helper classes to produce correctly formed NSLocale, NSDateFormatter and NSCalendar objects",
+              ""
+            ],
+            [
+              "8",
+              "[@alco](https://github.com/alco)/[**EGL_mac_ios**](https://github.com/alco/EGL_mac_ios)",
+              "A port of the EGL API to Mac OS X (OpenGL) and iOS (OpenGL ES 1 & 2)",
+              "[:arrow_upper_right:](http://www.khronos.org/egl)"
+            ],
+            [
+              "7",
+              "[@alco](https://github.com/alco)/[**TastyKVO**](https://github.com/alco/TastyKVO)",
+              "A simpler key-value observing API (with blocks!)",
+              ""
+            ],
+            [
+              "6",
+              "[@advantis](https://github.com/advantis)/[**BluetoothSwitcher**](https://github.com/advantis/BluetoothSwitcher)",
+              "Simple iOS bluetooth switcher for personal use (uses private API)",
+              ""
+            ],
+            [
+              "5",
+              "[@dodikk](https://github.com/dodikk)/[**ESDatabaseWrapper**](https://github.com/dodikk/ESDatabaseWrapper)",
+              "A set of Obj-C protocols to wrap the database access. It also provides categories on top of FMDatabase.",
+              ""
+            ],
+            [
+              "5",
+              "[@dodikk](https://github.com/dodikk)/[**iPalmGraffiti**](https://github.com/dodikk/iPalmGraffiti)",
+              "A PalmOS-like textual gestures recognition",
+              ""
+            ],
+            [
+              "5",
+              "[@advantis](https://github.com/advantis)/[**ADVAlertView**](https://github.com/advantis/ADVAlertView)",
+              "UIAlertView subclass that brings simple block API",
+              ""
+            ],
+            [
+              "4",
+              "[@ArtFeel](https://github.com/ArtFeel)/[**AFNumberPicker**](https://github.com/ArtFeel/AFNumberPicker)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@dodikk](https://github.com/dodikk)/[**iContiniousIntegrati…**](https://github.com/dodikk/iContiniousIntegration)",
+              "An example of the continious integration for iOS app.",
+              ""
+            ],
+            [
+              "4",
+              "[@dodikk](https://github.com/dodikk)/[**iOS-custom-framework…**](https://github.com/dodikk/iOS-custom-framework-example)",
+              "A simple application which uses custom frameworks, made from the template",
+              ""
+            ],
+            [
+              "3",
+              "[@maximletushov](https://github.com/maximletushov)/[**DrawingApp**](https://github.com/maximletushov/DrawingApp)",
+              "Simple editor for drawing.",
+              ""
+            ],
+            [
+              "2",
+              "[@AlexanderKaraberov](https://github.com/AlexanderKaraberov)/[**iOS-Network-Architec…**](https://github.com/AlexanderKaraberov/iOS-Network-Architecture-Demo)",
+              "This will be a sample project to demonstrate my architectural approach for large iOS apps.",
+              ""
+            ],
+            [
+              "2",
+              "[@alco](https://github.com/alco)/[**EGL_samples**](https://github.com/alco/EGL_samples)",
+              "Sample apps for the EGL_mac_ios port",
+              "[:arrow_upper_right:](https://github.com/alco/EGL_mac_ios)"
+            ],
+            [
+              "2",
+              "[@alco](https://github.com/alco)/[**Remotely**](https://github.com/alco/Remotely)",
+              "A set of Objective-C classes to simplify downloading/uploading/syncing files and directories",
+              ""
+            ],
+            [
+              "2",
+              "[@alco](https://github.com/alco)/[**objc.string**](https://github.com/alco/objc.string)",
+              "Self-contained library for efficient string manipulation in Objective-C. ",
+              "[:arrow_upper_right:](http://alco.github.com/objc.string)"
+            ],
+            [
+              "2",
+              "[@dodikk](https://github.com/dodikk)/[**iFeatureAvailability**](https://github.com/dodikk/iFeatureAvailability)",
+              "A wrapper around UIDevice to check whether certain iOS features are available.",
+              ""
+            ],
+            [
+              "2",
+              "[@dodikk](https://github.com/dodikk)/[**MotionBlocks**](https://github.com/dodikk/MotionBlocks)",
+              "Some convenience methods to invoke native ObjC blocks from the Ruby code",
               ""
             ]
           ]
