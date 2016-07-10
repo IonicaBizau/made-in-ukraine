@@ -38,5 +38,638 @@
   "bugs": {
     "url": "https://github.com/IonicaBizau/made-in-ukraine/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/made-in-ukraine#readme"
+  "homepage": "https://github.com/IonicaBizau/made-in-ukraine#readme",
+  "blah": {
+    "installation": [
+      {
+        "h2": "Contents"
+      },
+      {
+        "ul": [
+          "[JavaScript](#javascript)"
+        ]
+      },
+      {
+        "h3": "JavaScript #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "4447",
+              "[@NeXTs](https://github.com/NeXTs)/[**Clusterize.js**](https://github.com/NeXTs/Clusterize.js)",
+              "Tiny vanilla JS plugin to display large data sets easily",
+              "[:arrow_upper_right:](https://clusterize.js.org)"
+            ],
+            [
+              "3139",
+              "[@ipselon](https://github.com/ipselon)/[**structor**](https://github.com/ipselon/structor)",
+              "An advanced GUI editor for React",
+              "[:arrow_upper_right:](https://helmetrex.com)"
+            ],
+            [
+              "1726",
+              "[@NeXTs](https://github.com/NeXTs)/[**Jets.js**](https://github.com/NeXTs/Jets.js)",
+              "Native CSS search engine",
+              "[:arrow_upper_right:](https://jets.js.org)"
+            ],
+            [
+              "422",
+              "[@edjafarov](https://github.com/edjafarov)/[**node-webkit-updater**](https://github.com/edjafarov/node-webkit-updater)",
+              "node-webkit autoupdater",
+              "[:arrow_upper_right:](http://eldar.djafarov.com/2014/06/node-webkit-autoupdate/)"
+            ],
+            [
+              "417",
+              "[@ybogdanov](https://github.com/ybogdanov)/[**node-sync**](https://github.com/ybogdanov/node-sync)",
+              "Write simple and readable synchronous code in nodejs using fibers",
+              ""
+            ],
+            [
+              "416",
+              "[@theshock](https://github.com/theshock)/[**libcanvas**](https://github.com/theshock/libcanvas)",
+              "LibCanvas - Canvas Javascript library ",
+              "[:arrow_upper_right:](http://libcanvas.com)"
+            ],
+            [
+              "295",
+              "[@NeXTs](https://github.com/NeXTs)/[**Multiple.js**](https://github.com/NeXTs/Multiple.js)",
+              "Sharing background across multiple elements using CSS",
+              "[:arrow_upper_right:](http://multiple.js.org)"
+            ],
+            [
+              "267",
+              "[@piranha](https://github.com/piranha)/[**keymage**](https://github.com/piranha/keymage)",
+              "Yet Another JS Keybinding library",
+              ""
+            ],
+            [
+              "256",
+              "[@ghaiklor](https://github.com/ghaiklor)/[**generator-sails-rest…**](https://github.com/ghaiklor/generator-sails-rest-api)",
+              "Yeoman generator for scaffolding Sails REST API with predefined features",
+              "[:arrow_upper_right:](http://ghaiklor.github.io/generator-sails-rest-api/)"
+            ],
+            [
+              "216",
+              "[@finom](https://github.com/finom)/[**balalaika**](https://github.com/finom/balalaika)",
+              "Tiny DOM library",
+              ""
+            ],
+            [
+              "194",
+              "[@theshock](https://github.com/theshock)/[**atomjs**](https://github.com/theshock/atomjs)",
+              "Atom javascript framewok",
+              ""
+            ],
+            [
+              "189",
+              "[@ybogdanov](https://github.com/ybogdanov)/[**history-timeline**](https://github.com/ybogdanov/history-timeline)",
+              "Visualization of the globally famous people lifetimes. https://ybogdanov.github.io/history-time…",
+              ""
+            ],
+            [
+              "104",
+              "[@ipselon](https://github.com/ipselon)/[**material-ui-prepack**](https://github.com/ipselon/material-ui-prepack)",
+              "Includes components of Material UI lib + Flexbox Grid lib",
+              "[:arrow_upper_right:](https://helmetrex.com)"
+            ],
+            [
+              "102",
+              "[@edjafarov](https://github.com/edjafarov)/[**PromisePipe**](https://github.com/edjafarov/PromisePipe)",
+              "PromisePipe - reusable cross process promise chains",
+              ""
+            ],
+            [
+              "102",
+              "[@finom](https://github.com/finom)/[**bala**](https://github.com/finom/bala)",
+              "A function for elements selection",
+              ""
+            ],
+            [
+              "87",
+              "[@edjafarov](https://github.com/edjafarov)/[**remote-impress**](https://github.com/edjafarov/remote-impress)",
+              "This is remote Impress.js and Deck.js presentation controller. Allows to use phone for switching slides.",
+              "[:arrow_upper_right:](remote.nodester.com)"
+            ],
+            [
+              "70",
+              "[@piranha](https://github.com/piranha)/[**pump**](https://github.com/piranha/pump)",
+              "Pump your REACTive app with fuel",
+              ""
+            ],
+            [
+              "66",
+              "[@tshemsedinov](https://github.com/tshemsedinov)/[**node-mysql-utilities**](https://github.com/tshemsedinov/node-mysql-utilities)",
+              "Utilities for node-mysql driver with specialized result types, introspection and other helpful functionality.",
+              ""
+            ],
+            [
+              "54",
+              "[@edjafarov](https://github.com/edjafarov)/[**node-webkit-desktop-…**](https://github.com/edjafarov/node-webkit-desktop-notification)",
+              "node-webkit-desktop-notification",
+              ""
+            ],
+            [
+              "53",
+              "[@piranha](https://github.com/piranha)/[**puttext**](https://github.com/piranha/puttext)",
+              "Gettext-like i18n library for javascript",
+              ""
+            ],
+            [
+              "51",
+              "[@sudodoki](https://github.com/sudodoki)/[**copy-to-clipboard**](https://github.com/sudodoki/copy-to-clipboard)",
+              "Copy stuff into clipboard using JS",
+              ""
+            ],
+            [
+              "49",
+              "[@edjafarov](https://github.com/edjafarov)/[**socker**](https://github.com/edjafarov/socker)",
+              "CRUD over engine.io websockets",
+              ""
+            ],
+            [
+              "42",
+              "[@theshock](https://github.com/theshock)/[**console-cap**](https://github.com/theshock/console-cap)",
+              "",
+              ""
+            ],
+            [
+              "40",
+              "[@ipselon](https://github.com/ipselon)/[**bootstrap-prepack**](https://github.com/ipselon/bootstrap-prepack)",
+              "Structor starter project with React Bootstrap components.",
+              "[:arrow_upper_right:](https://helmetrex.com)"
+            ],
+            [
+              "29",
+              "[@finom](https://github.com/finom)/[**Suitup**](https://github.com/finom/Suitup)",
+              "Simple WYSIWYG editor",
+              ""
+            ],
+            [
+              "27",
+              "[@edjafarov](https://github.com/edjafarov)/[**grail**](https://github.com/edjafarov/grail)",
+              "grail - isomorphic app framework",
+              ""
+            ],
+            [
+              "26",
+              "[@NeXTs](https://github.com/NeXTs)/[**jq.entry**](https://github.com/NeXTs/jq.entry)",
+              "jQuery plugin to determine side which cursor enters or leaves the element.",
+              "[:arrow_upper_right:](http://nexts.github.com/jq.entry/)"
+            ],
+            [
+              "24",
+              "[@ghaiklor](https://github.com/ghaiklor)/[**terminal-canvas**](https://github.com/ghaiklor/terminal-canvas)",
+              "High-performant low-level API for access to cursor in terminal",
+              ""
+            ],
+            [
+              "23",
+              "[@finom](https://github.com/finom)/[**vanillatree**](https://github.com/finom/vanillatree)",
+              "Vanilla.js replacement of jstree",
+              ""
+            ],
+            [
+              "22",
+              "[@edjafarov](https://github.com/edjafarov)/[**compy**](https://github.com/edjafarov/compy)",
+              " lightweight html app builder",
+              ""
+            ],
+            [
+              "20",
+              "[@piranha](https://github.com/piranha)/[**adium-inline-images**](https://github.com/piranha/adium-inline-images)",
+              "Adium Image Inliner",
+              ""
+            ],
+            [
+              "20",
+              "[@theshock](https://github.com/theshock)/[**spirit**](https://github.com/theshock/spirit)",
+              "Node.js Spirit CMF",
+              ""
+            ],
+            [
+              "19",
+              "[@ghaiklor](https://github.com/ghaiklor)/[**generator-es6-npm-mo…**](https://github.com/ghaiklor/generator-es6-npm-module)",
+              "Yeoman generator for starting ES6 npm module with Mocha, Istanbul, Travis, Coveralls",
+              ""
+            ],
+            [
+              "19",
+              "[@finom](https://github.com/finom)/[**jQuery-Gaussian-Blur**](https://github.com/finom/jQuery-Gaussian-Blur)",
+              "Plugin which adds Gaussian Blur effect for images",
+              ""
+            ],
+            [
+              "19",
+              "[@ghaiklor](https://github.com/ghaiklor)/[**sails-service-mailer**](https://github.com/ghaiklor/sails-service-mailer)",
+              "Service for Sails framework with Mailer features",
+              ""
+            ],
+            [
+              "19",
+              "[@ghaiklor](https://github.com/ghaiklor)/[**sails-hook-cron**](https://github.com/ghaiklor/sails-hook-cron)",
+              "Sails hook for running cron tasks",
+              ""
+            ],
+            [
+              "17",
+              "[@ghaiklor](https://github.com/ghaiklor)/[**flappy-bird**](https://github.com/ghaiklor/flappy-bird)",
+              "Flappy Bird, a game you can barely play for more than a few seconds without throwing your phone (DEAD)",
+              "[:arrow_upper_right:](http://ghaiklor.github.io/flappy-bird/)"
+            ],
+            [
+              "16",
+              "[@finom](https://github.com/finom)/[**donut.js**](https://github.com/finom/donut.js)",
+              "Simplest cross-browser (VML+SVG) donut chart generator",
+              ""
+            ],
+            [
+              "15",
+              "[@theshock](https://github.com/theshock)/[**nanojs**](https://github.com/theshock/nanojs)",
+              "Nano javascript framework",
+              ""
+            ],
+            [
+              "15",
+              "[@finom](https://github.com/finom)/[**typo.js**](https://github.com/finom/typo.js)",
+              "",
+              ""
+            ],
+            [
+              "15",
+              "[@listochkin](https://github.com/listochkin)/[**ember-sonix**](https://github.com/listochkin/ember-sonix)",
+              "Ember Class at Nix Solutions, February 21-22, 2015",
+              ""
+            ],
+            [
+              "14",
+              "[@ipselon](https://github.com/ipselon)/[**structor-starter-pre…**](https://github.com/ipselon/structor-starter-prepack)",
+              "Starter project for Structor. It does not include UI or CSS frameworks, just convenient structure for Redux and Redux Saga.",
+              "[:arrow_upper_right:](https://helmetrex.com)"
+            ],
+            [
+              "14",
+              "[@ghaiklor](https://github.com/ghaiklor)/[**assetsjsloader**](https://github.com/ghaiklor/assetsjsloader)",
+              "Async loader which loads CSS and JS files (DEAD)",
+              "[:arrow_upper_right:](https://ghaiklor.github.io/assetsjsloader/)"
+            ],
+            [
+              "13",
+              "[@ybogdanov](https://github.com/ybogdanov)/[**node-mutex**](https://github.com/ybogdanov/node-mutex)",
+              "Distributed mutex for nodejs with redis backend",
+              ""
+            ],
+            [
+              "12",
+              "[@finom](https://github.com/finom)/[**babel-plugin-transfo…**](https://github.com/finom/babel-plugin-transform-es2015-modules-simple-amd)",
+              "Limited transformer for ECMAScript 2015 modules (AMD)",
+              ""
+            ],
+            [
+              "12",
+              "[@ghaiklor](https://github.com/ghaiklor)/[**sails-service-pusher**](https://github.com/ghaiklor/sails-service-pusher)",
+              "Service for Sails framework with Pusher features",
+              ""
+            ],
+            [
+              "11",
+              "[@edjafarov](https://github.com/edjafarov)/[**getapi**](https://github.com/edjafarov/getapi)",
+              "allows to build API's using annotations",
+              ""
+            ],
+            [
+              "11",
+              "[@edjafarov](https://github.com/edjafarov)/[**aries**](https://github.com/edjafarov/aries)",
+              "AriesNode is a MVC framework  for node.",
+              "[:arrow_upper_right:](aries.no.de)"
+            ],
+            [
+              "11",
+              "[@listochkin](https://github.com/listochkin)/[**node-api-design-work…**](https://github.com/listochkin/node-api-design-workshop-2015-12-13)",
+              "API design with Node.js Workshop - Kyiv, December 13, 2015",
+              ""
+            ],
+            [
+              "9",
+              "[@sudodoki](https://github.com/sudodoki)/[**toggle-selection**](https://github.com/sudodoki/toggle-selection)",
+              "Remove user selection and then get it back on",
+              ""
+            ],
+            [
+              "9",
+              "[@sudodoki](https://github.com/sudodoki)/[**copy-button**](https://github.com/sudodoki/copy-button)",
+              "Web component to copy target text/dom-node value to clipboard",
+              "[:arrow_upper_right:](http://sudodoki.github.io/copy-button/example)"
+            ],
+            [
+              "8",
+              "[@ghaiklor](https://github.com/ghaiklor)/[**sails-service-sms**](https://github.com/ghaiklor/sails-service-sms)",
+              "Service for Sails framework with SMS features",
+              ""
+            ],
+            [
+              "8",
+              "[@ghaiklor](https://github.com/ghaiklor)/[**sails-service-paymen…**](https://github.com/ghaiklor/sails-service-payment)",
+              "Service for Sails framework with Payment features",
+              ""
+            ],
+            [
+              "8",
+              "[@piranha](https://github.com/piranha)/[**tnetstrings.js**](https://github.com/piranha/tnetstrings.js)",
+              "tnetstrings javascript implementation",
+              "[:arrow_upper_right:](tnetstrings.org)"
+            ],
+            [
+              "8",
+              "[@sudodoki](https://github.com/sudodoki)/[**cleaver-template**](https://github.com/sudodoki/cleaver-template)",
+              "Jump start your cleaver presentation in no time.",
+              ""
+            ],
+            [
+              "8",
+              "[@ghaiklor](https://github.com/ghaiklor)/[**battlecity**](https://github.com/ghaiklor/battlecity)",
+              "The most popular game clone from our childhood (DEAD)",
+              "[:arrow_upper_right:](http://ghaiklor.github.io/battlecity/)"
+            ],
+            [
+              "7",
+              "[@ghaiklor](https://github.com/ghaiklor)/[**sails-service-storag…**](https://github.com/ghaiklor/sails-service-storage)",
+              "Service for Sails framework with Storage features",
+              ""
+            ],
+            [
+              "6",
+              "[@ghaiklor](https://github.com/ghaiklor)/[**passport-google-plus…**](https://github.com/ghaiklor/passport-google-plus-token)",
+              "Passport strategy for authenticating with Google Plus via OAuth2 access tokens",
+              "[:arrow_upper_right:](http://ghaiklor.github.io/passport-google-plus-token/)"
+            ],
+            [
+              "6",
+              "[@ghaiklor](https://github.com/ghaiklor)/[**sails-service-image**](https://github.com/ghaiklor/sails-service-image)",
+              "Service for Sails framework with Image features",
+              ""
+            ],
+            [
+              "6",
+              "[@edjafarov](https://github.com/edjafarov)/[**nodejs-api-boilerpla…**](https://github.com/edjafarov/nodejs-api-boilerplate)",
+              "nodejs-api-boilerplate project for workshop",
+              ""
+            ],
+            [
+              "6",
+              "[@theshock](https://github.com/theshock)/[**AutoCaptcha**](https://github.com/theshock/AutoCaptcha)",
+              "Auto Captcha filling with JavaScript",
+              ""
+            ],
+            [
+              "5",
+              "[@edjafarov](https://github.com/edjafarov)/[**nodejswall**](https://github.com/edjafarov/nodejswall)",
+              "Twitter wall written totally in Node.js",
+              "[:arrow_upper_right:](nodejswall.nodester.com)"
+            ],
+            [
+              "5",
+              "[@ghaiklor](https://github.com/ghaiklor)/[**sails-service-social**](https://github.com/ghaiklor/sails-service-social)",
+              "Service for Sails framework with Social features",
+              ""
+            ],
+            [
+              "5",
+              "[@ybogdanov](https://github.com/ybogdanov)/[**node-cloud**](https://github.com/ybogdanov/node-cloud)",
+              "Cloud computing with node.js and redis.",
+              ""
+            ],
+            [
+              "5",
+              "[@listochkin](https://github.com/listochkin)/[**node-phantom-test-ex…**](https://github.com/listochkin/node-phantom-test-example)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@ghaiklor](https://github.com/ghaiklor)/[**passport-instagram-t…**](https://github.com/ghaiklor/passport-instagram-token)",
+              "Passport strategy for authenticating with Instagram via OAuth2 access tokens",
+              ""
+            ],
+            [
+              "4",
+              "[@theshock](https://github.com/theshock)/[**libcanvas-backup**](https://github.com/theshock/libcanvas-backup)",
+              "LibCanvas - Canvas Javascript library",
+              "[:arrow_upper_right:](libcanvas.com)"
+            ],
+            [
+              "4",
+              "[@sudodoki](https://github.com/sudodoki)/[**cleaver-editor**](https://github.com/sudodoki/cleaver-editor)",
+              "Single page editor for cleaver slides in your browser",
+              ""
+            ],
+            [
+              "4",
+              "[@tshemsedinov](https://github.com/tshemsedinov)/[**node-inheritance**](https://github.com/tshemsedinov/node-inheritance)",
+              "Node.js class inheritance examples",
+              ""
+            ],
+            [
+              "4",
+              "[@listochkin](https://github.com/listochkin)/[**EmberOverflow-Odessa…**](https://github.com/listochkin/EmberOverflow-OdessaJS-2014)",
+              "A StackOverflow-like Q&A site written in Ember.js",
+              ""
+            ],
+            [
+              "4",
+              "[@ybogdanov](https://github.com/ybogdanov)/[**express-cors**](https://github.com/ybogdanov/express-cors)",
+              "CORS middleware for expressjs",
+              ""
+            ],
+            [
+              "4",
+              "[@finom](https://github.com/finom)/[**babel-plugin-transfo…**](https://github.com/finom/babel-plugin-transform-es2015-modules-simple-commonjs)",
+              "Limited transformer for ECMAScript 2015 modules (CommonJS)",
+              ""
+            ],
+            [
+              "4",
+              "[@sudodoki](https://github.com/sudodoki)/[**pivy-print**](https://github.com/sudodoki/pivy-print)",
+              "Easy print tool for task cards in pivotal tracker",
+              ""
+            ],
+            [
+              "4",
+              "[@ghaiklor](https://github.com/ghaiklor)/[**advent-of-code-2015**](https://github.com/ghaiklor/advent-of-code-2015)",
+              "Solutions for Advent of Code - a series of small programming puzzles for a variety of skill levels",
+              ""
+            ],
+            [
+              "3",
+              "[@edjafarov](https://github.com/edjafarov)/[**fluxnot**](https://github.com/edjafarov/fluxnot)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@ghaiklor](https://github.com/ghaiklor)/[**openlayers-tools**](https://github.com/ghaiklor/openlayers-tools)",
+              "OpenLayers wrapper, which simplifies work with it (DEAD)",
+              "[:arrow_upper_right:](http://ghaiklor.github.io/openlayers-tools/)"
+            ],
+            [
+              "3",
+              "[@finom](https://github.com/finom)/[**Functions**](https://github.com/finom/Functions)",
+              "This repository contains few functions that help in deciding of certain problems.",
+              ""
+            ],
+            [
+              "3",
+              "[@ybogdanov](https://github.com/ybogdanov)/[**node-narrow**](https://github.com/ybogdanov/node-narrow)",
+              "Library shrinks a given callback parallel execution concurrency in a limited number of threads, receiving the bunch of data (array of tasks).",
+              ""
+            ],
+            [
+              "3",
+              "[@NeXTs](https://github.com/NeXTs)/[**Wait-while-recursive…**](https://github.com/NeXTs/Wait-while-recursive-saving-nested-items)",
+              "Description how to recursively save parent and nested items without losing nested editing data",
+              ""
+            ],
+            [
+              "3",
+              "[@ghaiklor](https://github.com/ghaiklor)/[**passport-github-toke…**](https://github.com/ghaiklor/passport-github-token)",
+              "Passport strategy for authenticating with GitHub via OAuth2 access tokens",
+              ""
+            ],
+            [
+              "3",
+              "[@sasha240100](https://github.com/sasha240100)/[**JsOs**](https://github.com/sasha240100/JsOs)",
+              "Javascript-based operation system (Runtime.js)",
+              ""
+            ],
+            [
+              "3",
+              "[@programulya](https://github.com/programulya)/[**threejs-workshop**](https://github.com/programulya/threejs-workshop)",
+              "Three.js workshop",
+              ""
+            ],
+            [
+              "2",
+              "[@edjafarov](https://github.com/edjafarov)/[**reactjs-boilerplate**](https://github.com/edjafarov/reactjs-boilerplate)",
+              "odessajs reactjs-boilerplate",
+              ""
+            ],
+            [
+              "2",
+              "[@theshock](https://github.com/theshock)/[**jet-skulls**](https://github.com/theshock/jet-skulls)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@tshemsedinov](https://github.com/tshemsedinov)/[**global.js**](https://github.com/tshemsedinov/global.js)",
+              "JavaScript module definition pattern",
+              ""
+            ],
+            [
+              "2",
+              "[@listochkin](https://github.com/listochkin)/[**kharkiv-api-class**](https://github.com/listochkin/kharkiv-api-class)",
+              "code for API class in Kharkiv",
+              ""
+            ],
+            [
+              "2",
+              "[@theshock](https://github.com/theshock)/[**theshock.github.com**](https://github.com/theshock/theshock.github.com)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@listochkin](https://github.com/listochkin)/[**ember-kyiv-march-201…**](https://github.com/listochkin/ember-kyiv-march-2016)",
+              "Sample app for March 2016 class",
+              ""
+            ],
+            [
+              "2",
+              "[@listochkin](https://github.com/listochkin)/[**torii-twitter**](https://github.com/listochkin/torii-twitter)",
+              "Demo Ember app with Twitter Auth",
+              ""
+            ],
+            [
+              "2",
+              "[@sasha240100](https://github.com/sasha240100)/[**photograph-template**](https://github.com/sasha240100/photograph-template)",
+              "photograp tempate with beautiful slider.",
+              ""
+            ],
+            [
+              "2",
+              "[@ghaiklor](https://github.com/ghaiklor)/[**passport-twitch-toke…**](https://github.com/ghaiklor/passport-twitch-token)",
+              "Passport strategy for authenticating with Twitch via OAuth2 access tokens",
+              ""
+            ],
+            [
+              "2",
+              "[@ghaiklor](https://github.com/ghaiklor)/[**sails-hook-acl**](https://github.com/ghaiklor/sails-hook-acl)",
+              "Sails hook that implements ACL that don't tight with session or databases and easy configurable",
+              ""
+            ],
+            [
+              "2",
+              "[@finom](https://github.com/finom)/[**matreshka_boilerplat…**](https://github.com/finom/matreshka_boilerplate)",
+              "ES.next boilerplate app for Matreshka.js",
+              ""
+            ],
+            [
+              "2",
+              "[@ghaiklor](https://github.com/ghaiklor)/[**node-print-message**](https://github.com/ghaiklor/node-print-message)",
+              "NodeJS module for printing out beautiful messages in console",
+              "[:arrow_upper_right:](http://ghaiklor.github.io/node-print-message/)"
+            ],
+            [
+              "2",
+              "[@edjafarov](https://github.com/edjafarov)/[**pdfer**](https://github.com/edjafarov/pdfer)",
+              "simple out of the box pdf-service, heroku deployable",
+              ""
+            ],
+            [
+              "2",
+              "[@ghaiklor](https://github.com/ghaiklor)/[**sails-service-locati…**](https://github.com/ghaiklor/sails-service-location)",
+              "Service for Sails framework with Location features",
+              ""
+            ],
+            [
+              "2",
+              "[@listochkin](https://github.com/listochkin)/[**ember-fw-talks**](https://github.com/listochkin/ember-fw-talks)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@ghaiklor](https://github.com/ghaiklor)/[**sails-service-cipher**](https://github.com/ghaiklor/sails-service-cipher)",
+              "Service for Sails framework with Cipher features",
+              ""
+            ],
+            [
+              "2",
+              "[@programulya](https://github.com/programulya)/[**video-chat**](https://github.com/programulya/video-chat)",
+              "Video chat for two persons via WebRTC",
+              ""
+            ],
+            [
+              "2",
+              "[@ghaiklor](https://github.com/ghaiklor)/[**sails-service-hash**](https://github.com/ghaiklor/sails-service-hash)",
+              "Service for Sails framework with Hash features",
+              ""
+            ],
+            [
+              "2",
+              "[@sudodoki](https://github.com/sudodoki)/[**aleph-box**](https://github.com/sudodoki/aleph-box)",
+              "No backend javascript anything stubber aka Chance.js without all the parens",
+              ""
+            ]
+          ]
+        }
+      }
+    ]
+  }
 }
