@@ -62,7 +62,8 @@
           "[Perl](#perl)",
           "[PHP](#php)",
           "[Python](#python)",
-          "[R](#r)"
+          "[R](#r)",
+          "[Ruby](#ruby)"
         ]
       },
       {
@@ -3237,6 +3238,375 @@
               "2",
               "[@shumelchyk](https://github.com/shumelchyk)/[**RNeXML**](https://github.com/shumelchyk/RNeXML)",
               "Implementing semantically rich NeXML I/O in R",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Ruby #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "1542",
+              "[@galetahub](https://github.com/galetahub)/[**ckeditor**](https://github.com/galetahub/ckeditor)",
+              "Ckeditor integration gem for rails",
+              "[:arrow_upper_right:](http://ckeditor.com/)"
+            ],
+            [
+              "141",
+              "[@le0pard](https://github.com/le0pard)/[**mongodb_logger**](https://github.com/le0pard/mongodb_logger)",
+              "MongoDB logger for Rails",
+              "[:arrow_upper_right:](http://mongodb-logger.catware.org/)"
+            ],
+            [
+              "95",
+              "[@krasnoukhov](https://github.com/krasnoukhov)/[**octodmin**](https://github.com/krasnoukhov/octodmin)",
+              "Content management for Jekyll blogs",
+              ""
+            ],
+            [
+              "87",
+              "[@le0pard](https://github.com/le0pard)/[**chef-solo-example**](https://github.com/le0pard/chef-solo-example)",
+              "Repo with Chef solo example",
+              "[:arrow_upper_right:](http://chef.leopard.in.ua/)"
+            ],
+            [
+              "75",
+              "[@shockone](https://github.com/shockone)/[**uberscore**](https://github.com/shockone/uberscore)",
+              "A gem that makes your Ruby blocks more concise.",
+              "[:arrow_upper_right:](https://github.com/shockone/uberscore)"
+            ],
+            [
+              "73",
+              "[@rilian](https://github.com/rilian)/[**devise-doorkeeper-ca…**](https://github.com/rilian/devise-doorkeeper-cancan-api-example)",
+              "rails 4, rails-api, devise, doorkeeper, oauth, cancancan, rspec, puma, vcr, factory_girl, reqres_rspec, pg, dotenv, rack-cors, active_model_serializers, rubocop",
+              ""
+            ],
+            [
+              "72",
+              "[@krasnoukhov](https://github.com/krasnoukhov)/[**sidekiq-middleware**](https://github.com/krasnoukhov/sidekiq-middleware)",
+              "Additional sidekiq middleware",
+              ""
+            ],
+            [
+              "48",
+              "[@le0pard](https://github.com/le0pard)/[**rwbox**](https://github.com/le0pard/rwbox)",
+              "Vagrant images for Ruby and ROR developers",
+              "[:arrow_upper_right:](http://leopard.in.ua/rwbox)"
+            ],
+            [
+              "36",
+              "[@Ptico](https://github.com/Ptico)/[**from-rack-to-rails**](https://github.com/Ptico/from-rack-to-rails)",
+              "Codecasts about how rails works",
+              ""
+            ],
+            [
+              "25",
+              "[@krasnoukhov](https://github.com/krasnoukhov)/[**gospotify**](https://github.com/krasnoukhov/gospotify)",
+              "GoSpotify is a simple service that syncs your playlists from SoundCloud, VK and Last.fm to Spotify.",
+              ""
+            ],
+            [
+              "25",
+              "[@rilian](https://github.com/rilian)/[**saas-homework**](https://github.com/rilian/saas-homework)",
+              "SAAS class @ Berkeley - homework",
+              "[:arrow_upper_right:](https://www.coursera.org/saas/)"
+            ],
+            [
+              "24",
+              "[@galetahub](https://github.com/galetahub)/[**web_video**](https://github.com/galetahub/web_video)",
+              "WebVideo allows you to inspect and process video files (ffmpeg, mencoder, flvtool2).",
+              ""
+            ],
+            [
+              "22",
+              "[@rilian](https://github.com/rilian)/[**portfolio**](https://github.com/rilian/portfolio)",
+              "app to store your portfolio, with ability to upload graphics, categorize and comment",
+              ""
+            ],
+            [
+              "20",
+              "[@le0pard](https://github.com/le0pard)/[**st_rails_example**](https://github.com/le0pard/st_rails_example)",
+              "Demo app for shared templates in rails 3",
+              "[:arrow_upper_right:](http://st-rails-example.herokuapp.com/)"
+            ],
+            [
+              "19",
+              "[@galetahub](https://github.com/galetahub)/[**loginza**](https://github.com/galetahub/loginza)",
+              "OpenID 2.0 provider",
+              "[:arrow_upper_right:](http://loginza.ru)"
+            ],
+            [
+              "13",
+              "[@galetahub](https://github.com/galetahub)/[**rails-ckeditor-demo-…**](https://github.com/galetahub/rails-ckeditor-demo-app)",
+              "Demo app for rails-ckeditor plugin usage",
+              ""
+            ],
+            [
+              "13",
+              "[@le0pard](https://github.com/le0pard)/[**omniauth-yammer**](https://github.com/le0pard/omniauth-yammer)",
+              "OmniAuth strategy for Yammer",
+              "[:arrow_upper_right:](https://github.com/le0pard/omniauth-yammer)"
+            ],
+            [
+              "10",
+              "[@rilian](https://github.com/rilian)/[**newsletter**](https://github.com/rilian/newsletter)",
+              "This project aims to streamline delivery of quality IT reading/watching resources to curious developers",
+              ""
+            ],
+            [
+              "9",
+              "[@galetahub](https://github.com/galetahub)/[**sunrise-core**](https://github.com/galetahub/sunrise-core)",
+              "SunRize CMS Core",
+              "[:arrow_upper_right:](http://www.aimbulance.com/)"
+            ],
+            [
+              "9",
+              "[@galetahub](https://github.com/galetahub)/[**vkontakte**](https://github.com/galetahub/vkontakte)",
+              "The easiest way to access Vkontakte API and some other utils.",
+              "[:arrow_upper_right:](http://vkontakte.ru/developers.php)"
+            ],
+            [
+              "8",
+              "[@aratak](https://github.com/aratak)/[**wkhtmltopdf_for_rail…**](https://github.com/aratak/wkhtmltopdf_for_rails)",
+              "Provides WKHTMLTOPDF for ruby on rails.",
+              ""
+            ],
+            [
+              "7",
+              "[@shockone](https://github.com/shockone)/[**ansi-select**](https://github.com/shockone/ansi-select)",
+              "A simple, not full-screen, ncurses-like TUI select",
+              ""
+            ],
+            [
+              "7",
+              "[@galetahub](https://github.com/galetahub)/[**ruby2xlsx**](https://github.com/galetahub/ruby2xlsx)",
+              "Export your data to Excel. Provide two ways for export data: template or renderer.",
+              "[:arrow_upper_right:](http://www.aimbulance.com/)"
+            ],
+            [
+              "7",
+              "[@galetahub](https://github.com/galetahub)/[**sunrise**](https://github.com/galetahub/sunrise)",
+              "Mini and free CMS",
+              "[:arrow_upper_right:](http://fodojo.com/)"
+            ],
+            [
+              "6",
+              "[@Ptico](https://github.com/Ptico)/[**rubyunderhood**](https://github.com/Ptico/rubyunderhood)",
+              "",
+              ""
+            ],
+            [
+              "6",
+              "[@Ptico](https://github.com/Ptico)/[**rspec-sequel_expecta…**](https://github.com/Ptico/rspec-sequel_expectations)",
+              "RSpec matchers for Sequel",
+              ""
+            ],
+            [
+              "6",
+              "[@le0pard](https://github.com/le0pard)/[**chef-server-example**](https://github.com/le0pard/chef-server-example)",
+              "Chef server example",
+              ""
+            ],
+            [
+              "6",
+              "[@le0pard](https://github.com/le0pard)/[**zopfli-ffi**](https://github.com/le0pard/zopfli-ffi)",
+              "Ruby wrapper for zopfli",
+              "[:arrow_upper_right:](http://leopard.in.ua/zopfli-ffi)"
+            ],
+            [
+              "5",
+              "[@galetahub](https://github.com/galetahub)/[**track_tweets**](https://github.com/galetahub/track_tweets)",
+              "Tracking tweets count, users count",
+              "[:arrow_upper_right:](http://search.twitter.com/api/)"
+            ],
+            [
+              "5",
+              "[@galetahub](https://github.com/galetahub)/[**vkontakte_oauth**](https://github.com/galetahub/vkontakte_oauth)",
+              "Vkontakte Open API (ВКонтакте)",
+              "[:arrow_upper_right:](http://vkontakte.ru/pages.php?o=-1&p=Open+API)"
+            ],
+            [
+              "5",
+              "[@galetahub](https://github.com/galetahub)/[**sunrise-file-upload**](https://github.com/galetahub/sunrise-file-upload)",
+              "Upload files",
+              ""
+            ],
+            [
+              "5",
+              "[@galetahub](https://github.com/galetahub)/[**cancan_namespace**](https://github.com/galetahub/cancan_namespace)",
+              "Add namespace for cancan authorization library",
+              ""
+            ],
+            [
+              "4",
+              "[@galetahub](https://github.com/galetahub)/[**social_profile**](https://github.com/galetahub/social_profile)",
+              "Wrapper for Omniauth profile hash",
+              ""
+            ],
+            [
+              "4",
+              "[@galetahub](https://github.com/galetahub)/[**falcon**](https://github.com/galetahub/falcon)",
+              "Encoding video files",
+              ""
+            ],
+            [
+              "4",
+              "[@le0pard](https://github.com/le0pard)/[**chef-tdd-monit**](https://github.com/le0pard/chef-tdd-monit)",
+              "Example cookbook with monit",
+              "[:arrow_upper_right:](http://leopard.in.ua/2013/12/01/chef-and-tdd/)"
+            ],
+            [
+              "4",
+              "[@aratak](https://github.com/aratak)/[**jquery_drapper**](https://github.com/aratak/jquery_drapper)",
+              "Create some widget from 'input' source. Unobtrusive",
+              "[:arrow_upper_right:](http://aratak.github.com/jquery_drapper/)"
+            ],
+            [
+              "4",
+              "[@galetahub](https://github.com/galetahub)/[**poker_history**](https://github.com/galetahub/poker_history)",
+              "Poker hands history parser",
+              "[:arrow_upper_right:](poker.ua)"
+            ],
+            [
+              "4",
+              "[@Ptico](https://github.com/Ptico)/[**signpost**](https://github.com/Ptico/signpost)",
+              "Rack router",
+              ""
+            ],
+            [
+              "4",
+              "[@krasnoukhov](https://github.com/krasnoukhov)/[**lotus-dynamodb**](https://github.com/krasnoukhov/lotus-dynamodb)",
+              "Amazon DynamoDB adapter for Lotus::Model",
+              ""
+            ],
+            [
+              "3",
+              "[@Alexey-Lukin](https://github.com/Alexey-Lukin)/[**ufujs-demo**](https://github.com/Alexey-Lukin/ufujs-demo)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@galetahub](https://github.com/galetahub)/[**rails-marker**](https://github.com/galetahub/rails-marker)",
+              "Easy way to edit zoom, longitude and latitude",
+              ""
+            ],
+            [
+              "3",
+              "[@galetahub](https://github.com/galetahub)/[**share_checker**](https://github.com/galetahub/share_checker)",
+              "Get count of shared URL's in social sites (twitter, facebook, vkontakte and odnoklassniki)",
+              "[:arrow_upper_right:](http://www.aimbulance.com/)"
+            ],
+            [
+              "3",
+              "[@Ptico](https://github.com/Ptico)/[**switcher**](https://github.com/Ptico/switcher)",
+              "Switcher is simple, event-driven state machine",
+              ""
+            ],
+            [
+              "3",
+              "[@rilian](https://github.com/rilian)/[**expenses**](https://github.com/rilian/expenses)",
+              "home expenses tracker",
+              ""
+            ],
+            [
+              "3",
+              "[@le0pard](https://github.com/le0pard)/[**le0pard.github.io**](https://github.com/le0pard/le0pard.github.io)",
+              "My Blog",
+              "[:arrow_upper_right:](http://leopard.in.ua)"
+            ],
+            [
+              "3",
+              "[@Alexey-Lukin](https://github.com/Alexey-Lukin)/[**shrimp-middleware**](https://github.com/Alexey-Lukin/shrimp-middleware)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@le0pard](https://github.com/le0pard)/[**smartme_backbone_201…**](https://github.com/le0pard/smartme_backbone_2012)",
+              "SmartMe Backbone 2012",
+              "[:arrow_upper_right:](http://www.smartme.com.ua/workshops/razrabotka-veb-prilozheniy-s-ispolzovaniem-coffeescript-i-backbonejs)"
+            ],
+            [
+              "2",
+              "[@Alexey-Lukin](https://github.com/Alexey-Lukin)/[**google_parser**](https://github.com/Alexey-Lukin/google_parser)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@le0pard](https://github.com/le0pard)/[**automation-git-chang…**](https://github.com/le0pard/automation-git-changelog)",
+              "Automatic git changelog",
+              ""
+            ],
+            [
+              "2",
+              "[@le0pard](https://github.com/le0pard)/[**product_fair**](https://github.com/le0pard/product_fair)",
+              "Product Fair for Railsware",
+              ""
+            ],
+            [
+              "2",
+              "[@Ptico](https://github.com/Ptico)/[**resourced**](https://github.com/Ptico/resourced)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@le0pard](https://github.com/le0pard)/[**ruby_pg_pool_admin**](https://github.com/le0pard/ruby_pg_pool_admin)",
+              "Under development frontend for pgpool on ruby",
+              ""
+            ],
+            [
+              "2",
+              "[@krasnoukhov](https://github.com/krasnoukhov)/[**lines**](https://github.com/krasnoukhov/lines)",
+              "Задача на реализацию игры Lines",
+              ""
+            ],
+            [
+              "2",
+              "[@galetahub](https://github.com/galetahub)/[**yml_translator**](https://github.com/galetahub/yml_translator)",
+              "Translate your I18n files locales in one click",
+              ""
+            ],
+            [
+              "2",
+              "[@galetahub](https://github.com/galetahub)/[**simple-god**](https://github.com/galetahub/simple-god)",
+              "Simple monitoring via God",
+              "[:arrow_upper_right:](http://god.rubyforge.org/)"
+            ],
+            [
+              "2",
+              "[@galetahub](https://github.com/galetahub)/[**freeberry**](https://github.com/galetahub/freeberry)",
+              "Aimbulance project template (CMS)",
+              "[:arrow_upper_right:](http://aimbulance.com)"
+            ],
+            [
+              "2",
+              "[@aratak](https://github.com/aratak)/[**sql_views**](https://github.com/aratak/sql_views)",
+              "Adds support for using SQL views within ActiveRecord",
+              ""
+            ],
+            [
+              "2",
+              "[@vessi](https://github.com/vessi)/[**rubymeditation3_yarv**](https://github.com/vessi/rubymeditation3_yarv)",
+              "RubyMeditation 3 materials for presentation",
+              ""
+            ],
+            [
+              "2",
+              "[@galetahub](https://github.com/galetahub)/[**ballot_box**](https://github.com/galetahub/ballot_box)",
+              "Votes, ratings via rack",
               ""
             ]
           ]
