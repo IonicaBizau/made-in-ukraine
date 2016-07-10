@@ -64,7 +64,8 @@
           "[Python](#python)",
           "[R](#r)",
           "[Ruby](#ruby)",
-          "[Scala](#scala)"
+          "[Scala](#scala)",
+          "[Shell](#shell)"
         ]
       },
       {
@@ -3731,6 +3732,57 @@
               "2",
               "[@sonenko](https://github.com/sonenko)/[**logical-parser**](https://github.com/sonenko/logical-parser)",
               "",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Shell #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "40",
+              "[@zserge](https://github.com/zserge)/[**buckbone**](https://github.com/zserge/buckbone)",
+              "A simple android project generator for the Buck build system",
+              ""
+            ],
+            [
+              "23",
+              "[@technix](https://github.com/technix)/[**frenzy**](https://github.com/technix/frenzy)",
+              "Frenzy - FreeBSD-based LiveCD",
+              "[:arrow_upper_right:](http://frenzy.org.ua/)"
+            ],
+            [
+              "5",
+              "[@snowcore](https://github.com/snowcore)/[**mage-svn-ignore**](https://github.com/snowcore/mage-svn-ignore)",
+              "Bash script for setting svn:ignore property for new Magento project",
+              ""
+            ],
+            [
+              "4",
+              "[@zserge](https://github.com/zserge)/[**mucks**](https://github.com/zserge/mucks)",
+              "A tiny terminal session manager for Tmux, Screen and DVTM",
+              ""
+            ],
+            [
+              "3",
+              "[@vaxXxa](https://github.com/vaxXxa)/[**dotfiles**](https://github.com/vaxXxa/dotfiles)",
+              "~",
+              ""
+            ],
+            [
+              "3",
+              "[@pavel-v-chernykh](https://github.com/pavel-v-chernykh)/[**ansible-dotfiles**](https://github.com/pavel-v-chernykh/ansible-dotfiles)",
+              "Ansible role for provisioning OS with dotfiles",
               ""
             ]
           ]
