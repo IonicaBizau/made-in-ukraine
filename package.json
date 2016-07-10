@@ -58,7 +58,8 @@
           "[Haskell](#haskell)",
           "[Lua](#lua)",
           "[Matlab](#matlab)",
-          "[Objective-C](#objective-c)"
+          "[Objective-C](#objective-c)",
+          "[Perl](#perl)"
         ]
       },
       {
@@ -2315,6 +2316,189 @@
               "2",
               "[@dodikk](https://github.com/dodikk)/[**MotionBlocks**](https://github.com/dodikk/MotionBlocks)",
               "Some convenience methods to invoke native ObjC blocks from the Ruby code",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Perl #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "12",
+              "[@und3f](https://github.com/und3f)/[**protocol-redis**](https://github.com/und3f/protocol-redis)",
+              "Redis protocol messages parser/encoder",
+              "[:arrow_upper_right:](http://metacpan.org/module/Protocol::Redis)"
+            ],
+            [
+              "12",
+              "[@und3f](https://github.com/und3f)/[**mojox-redis**](https://github.com/und3f/mojox-redis)",
+              "asynchronous Redis client based on Mojo",
+              "[:arrow_upper_right:](https://metacpan.org/pod/MojoX::Redis)"
+            ],
+            [
+              "9",
+              "[@und3f](https://github.com/und3f)/[**Twiggy-TLS**](https://github.com/und3f/Twiggy-TLS)",
+              "TLS support for Twiggy server",
+              ""
+            ],
+            [
+              "8",
+              "[@esobchenko](https://github.com/esobchenko)/[**rest-google**](https://github.com/esobchenko/rest-google)",
+              "REST::Google provides OO access to Google REST API from Perl",
+              "[:arrow_upper_right:](http://search.cpan.org/dist/REST-Google/)"
+            ],
+            [
+              "7",
+              "[@und3f](https://github.com/und3f)/[**accounticious**](https://github.com/und3f/accounticious)",
+              "Accounting system based on Mojo framework",
+              ""
+            ],
+            [
+              "7",
+              "[@und3f](https://github.com/und3f)/[**jlogger**](https://github.com/und3f/jlogger)",
+              "jabber messages logger",
+              ""
+            ],
+            [
+              "5",
+              "[@und3f](https://github.com/und3f)/[**mojolicious-lexicon**](https://github.com/und3f/mojolicious-lexicon)",
+              "Generate lexemes file from templates",
+              "[:arrow_upper_right:](http://search.cpan.org/perldoc?Mojolicious::Command::Generate::Lexicon)"
+            ],
+            [
+              "5",
+              "[@und3f](https://github.com/und3f)/[**jlogger-web**](https://github.com/und3f/jlogger-web)",
+              "Web interface for JLogger",
+              ""
+            ],
+            [
+              "5",
+              "[@melnik13](https://github.com/melnik13)/[**monkeyman**](https://github.com/melnik13/monkeyman)",
+              "A cool library and set of tools to manage your CloudStack installation",
+              "[:arrow_upper_right:](http://melnik13.github.io/monkeyman/)"
+            ],
+            [
+              "4",
+              "[@bor](https://github.com/bor)/[**lastfm2gmb**](https://github.com/bor/lastfm2gmb)",
+              "Script to import (sync) info from last.fm to gmusicbrowser",
+              ""
+            ],
+            [
+              "4",
+              "[@radetsky](https://github.com/radetsky)/[**perl-smpp-server**](https://github.com/radetsky/perl-smpp-server)",
+              "SMPP server written in perl. ",
+              ""
+            ],
+            [
+              "3",
+              "[@radetsky](https://github.com/radetsky)/[**smppd3**](https://github.com/radetsky/smppd3)",
+              "Based Pearl::SMPP::Server new SMPP Server ",
+              ""
+            ],
+            [
+              "3",
+              "[@esobchenko](https://github.com/esobchenko)/[**cache-weak**](https://github.com/esobchenko/cache-weak)",
+              "Cache::Weak is a Perl object cache based on weak references",
+              ""
+            ],
+            [
+              "3",
+              "[@cono](https://github.com/cono)/[**p6-LinkedList**](https://github.com/cono/p6-LinkedList)",
+              "Module for LinkedList manipulations",
+              ""
+            ],
+            [
+              "3",
+              "[@und3f](https://github.com/und3f)/[**mojox-ping**](https://github.com/und3f/mojox-ping)",
+              "asynchronous ping with Mojo. DEPRECATED, use AnyEvent::Ping instead.",
+              "[:arrow_upper_right:](http://search.cpan.org/perldoc?MojoX::Ping)"
+            ],
+            [
+              "2",
+              "[@cub-uanic](https://github.com/cub-uanic)/[**WebService-PagerDuty**](https://github.com/cub-uanic/WebService-PagerDuty)",
+              "Module to interface with the http://PagerDuty.com service",
+              ""
+            ],
+            [
+              "2",
+              "[@cub-uanic](https://github.com/cub-uanic)/[**Catalyst**](https://github.com/cub-uanic/Catalyst)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@esobchenko](https://github.com/esobchenko)/[**object-mapper**](https://github.com/esobchenko/object-mapper)",
+              "Object::Mapper is a primitive Perl object persistence",
+              ""
+            ],
+            [
+              "2",
+              "[@bor](https://github.com/bor)/[**gmb-plugins**](https://github.com/bor/gmb-plugins)",
+              "gmusicbrowser extra plugins",
+              ""
+            ],
+            [
+              "2",
+              "[@cono](https://github.com/cono)/[**p5-data-mpq**](https://github.com/cono/p5-data-mpq)",
+              "mpq format parser",
+              ""
+            ],
+            [
+              "2",
+              "[@cono](https://github.com/cono)/[**p5-students-project**](https://github.com/cono/p5-students-project)",
+              "Project for teaching Perl",
+              ""
+            ],
+            [
+              "2",
+              "[@drone-pl](https://github.com/drone-pl)/[**FullScreenProj.pl**](https://github.com/drone-pl/FullScreenProj.pl)",
+              "Crazy Fullscreen  Detector & Screensaver Disabler",
+              ""
+            ],
+            [
+              "2",
+              "[@msoap](https://github.com/msoap)/[**reederapp-command-li…**](https://github.com/msoap/reederapp-command-line-client)",
+              "Generate html for unread Reeder.app feeds",
+              ""
+            ],
+            [
+              "2",
+              "[@und3f](https://github.com/und3f)/[**share-easy**](https://github.com/und3f/share-easy)",
+              "Share files over HTTP easy",
+              ""
+            ],
+            [
+              "2",
+              "[@und3f](https://github.com/und3f)/[**Net-Server**](https://github.com/und3f/Net-Server)",
+              "My local git repo for Net::Server",
+              "[:arrow_upper_right:](https://metacpan.org/module/Net::Server)"
+            ],
+            [
+              "2",
+              "[@alistratov](https://github.com/alistratov)/[**ali-public**](https://github.com/alistratov/ali-public)",
+              "Public libraries",
+              ""
+            ],
+            [
+              "2",
+              "[@und3f](https://github.com/und3f)/[**anyevent-ping**](https://github.com/und3f/anyevent-ping)",
+              "Asynchronous ping with AnyEvent",
+              ""
+            ],
+            [
+              "2",
+              "[@cub-uanic](https://github.com/cub-uanic)/[**Catalyst-Controller-…**](https://github.com/cub-uanic/Catalyst-Controller-DBIC-API)",
+              "fork of git://git.shadowcat.co.uk/catagits/Catal…",
               ""
             ]
           ]
