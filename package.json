@@ -47,7 +47,8 @@
       {
         "ul": [
           "[JavaScript](#javascript)",
-          "[Java](#java)"
+          "[Java](#java)",
+          "[C#](#c-1)"
         ]
       },
       {
@@ -1173,6 +1174,291 @@
               "2",
               "[@danylovolokh](https://github.com/danylovolokh)/[**PermissionsReference**](https://github.com/danylovolokh/PermissionsReference)",
               "The purpose of this project is to create an exhaustive reference of methods that developers have to take into account while implementing Runtime Permissions in Android Marshmallow and higher.",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "C# #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "331",
+              "[@PavelTorgashov](https://github.com/PavelTorgashov)/[**FastColoredTextBox**](https://github.com/PavelTorgashov/FastColoredTextBox)",
+              "Fast Colored TextBox for Syntax Highlighting. The text editor component for .NET.",
+              ""
+            ],
+            [
+              "113",
+              "[@titarenko](https://github.com/titarenko)/[**OAuth2**](https://github.com/titarenko/OAuth2)",
+              "OAuth2 client implementation for .NET",
+              ""
+            ],
+            [
+              "93",
+              "[@yevhen](https://github.com/yevhen)/[**Nake**](https://github.com/yevhen/Nake)",
+              "Magic script-based C# task runner. C# V6 is supported!",
+              ""
+            ],
+            [
+              "77",
+              "[@AntyaDev](https://github.com/AntyaDev)/[**KingAOP**](https://github.com/AntyaDev/KingAOP)",
+              ".NET AOP framework - a free alternative of PostSharp.",
+              ""
+            ],
+            [
+              "73",
+              "[@sergeyshushlyapin](https://github.com/sergeyshushlyapin)/[**Sitecore.FakeDb**](https://github.com/sergeyshushlyapin/Sitecore.FakeDb)",
+              "Unit testing framework for Sitecore.",
+              ""
+            ],
+            [
+              "63",
+              "[@yevhen](https://github.com/yevhen)/[**Streamstone**](https://github.com/yevhen/Streamstone)",
+              "Event store for Azure Table Storage",
+              ""
+            ],
+            [
+              "44",
+              "[@adoprog](https://github.com/adoprog)/[**Sitecore-Courier**](https://github.com/adoprog/Sitecore-Courier)",
+              "Sitecore Courier aims to fill the gap between the development and production environments when building websites with Sitecore CMS.",
+              "[:arrow_upper_right:](sitecoresnippets.blogspot.com)"
+            ],
+            [
+              "19",
+              "[@akimboyko](https://github.com/akimboyko)/[**MetaProgramming**](https://github.com/akimboyko/MetaProgramming)",
+              "Metaprogramming .Net samples",
+              ""
+            ],
+            [
+              "17",
+              "[@PavelTorgashov](https://github.com/PavelTorgashov)/[**FastTree**](https://github.com/PavelTorgashov/FastTree)",
+              "FastTree and FastList controls",
+              ""
+            ],
+            [
+              "12",
+              "[@T-Alex](https://github.com/T-Alex)/[**WPFControls**](https://github.com/T-Alex/WPFControls)",
+              "Set of Controls for WPF.",
+              ""
+            ],
+            [
+              "10",
+              "[@T-Alex](https://github.com/T-Alex)/[**MarkedNet**](https://github.com/T-Alex/MarkedNet)",
+              "A full-featured markdown parser and compiler, written in C#",
+              ""
+            ],
+            [
+              "9",
+              "[@AntyaDev](https://github.com/AntyaDev)/[**FunctionalWeapon**](https://github.com/AntyaDev/FunctionalWeapon)",
+              "C# library for functional programming.",
+              ""
+            ],
+            [
+              "8",
+              "[@yevhen](https://github.com/yevhen)/[**Servelat-Pieces**](https://github.com/yevhen/Servelat-Pieces)",
+              "Servelat Pieces is a collection of reusable bits of code that can make you asynchronous programming easier. It contains a generic implementation of Coroutines on top of iterator blocks. It also has some nuggets for Silverlight development (in particular consumption of WCF services).",
+              ""
+            ],
+            [
+              "7",
+              "[@Konctantin](https://github.com/Konctantin)/[**GreyMagic**](https://github.com/Konctantin/GreyMagic)",
+              "GreyMagic",
+              ""
+            ],
+            [
+              "7",
+              "[@PavelTorgashov](https://github.com/PavelTorgashov)/[**Animator**](https://github.com/PavelTorgashov/Animator)",
+              "The component Animator allows you to animate any controls on your WinForms.",
+              ""
+            ],
+            [
+              "7",
+              "[@Konctantin](https://github.com/Konctantin)/[**EventAICreator**](https://github.com/Konctantin/EventAICreator)",
+              "Constructor for MaNGOS Event AI Script",
+              ""
+            ],
+            [
+              "7",
+              "[@yevhen](https://github.com/yevhen)/[**Orleans.PingPong**](https://github.com/yevhen/Orleans.PingPong)",
+              "Ping Pong benchmark for Orleans",
+              ""
+            ],
+            [
+              "6",
+              "[@T-Alex](https://github.com/T-Alex)/[**MathCore**](https://github.com/T-Alex/MathCore)",
+              "Advanced .NET math library (PCL).",
+              ""
+            ],
+            [
+              "6",
+              "[@T-Alex](https://github.com/T-Alex)/[**Flucene**](https://github.com/T-Alex/Flucene)",
+              "Object Document Mapper for Lucene.Net",
+              ""
+            ],
+            [
+              "5",
+              "[@Konctantin](https://github.com/Konctantin)/[**WowDataFileParser**](https://github.com/Konctantin/WowDataFileParser)",
+              "WowDataFileParser",
+              ""
+            ],
+            [
+              "5",
+              "[@titarenko](https://github.com/titarenko)/[**TestDataFactory**](https://github.com/titarenko/TestDataFactory)",
+              "Library for effortless generation of (not only) POCO objects.",
+              ""
+            ],
+            [
+              "5",
+              "[@ysw](https://github.com/ysw)/[**mono-socket-problem**](https://github.com/ysw/mono-socket-problem)",
+              "Mono socket problem demo",
+              ""
+            ],
+            [
+              "4",
+              "[@T-Alex](https://github.com/T-Alex)/[**BeautifulFractals**](https://github.com/T-Alex/BeautifulFractals)",
+              "Beautiful Fractals Screensaver written on C# using WPF and GDI+.",
+              "[:arrow_upper_right:](http://www.talex-soft.com/projects/beautiful_fractals)"
+            ],
+            [
+              "4",
+              "[@T-Alex](https://github.com/T-Alex)/[**ImageProxy**](https://github.com/T-Alex/ImageProxy)",
+              "Resizing and caching images from web on the fly (WCF service).",
+              ""
+            ],
+            [
+              "3",
+              "[@yevhen](https://github.com/yevhen)/[**HipstaLink**](https://github.com/yevhen/HipstaLink)",
+              "Simple HATEOAS infrastructure for ASP.NET Web API 2",
+              ""
+            ],
+            [
+              "3",
+              "[@T-Alex](https://github.com/T-Alex)/[**SEOStats**](https://github.com/T-Alex/SEOStats)",
+              "Checking of Google PageRank, Alexa rank and etc. for your site.",
+              ""
+            ],
+            [
+              "3",
+              "[@T-Alex](https://github.com/T-Alex)/[**DotWeb**](https://github.com/T-Alex/DotWeb)",
+              "Library of web tools for .NET",
+              ""
+            ],
+            [
+              "3",
+              "[@Konctantin](https://github.com/Konctantin)/[**Katrina**](https://github.com/Konctantin/Katrina)",
+              "World Of WarCraft sniffer",
+              ""
+            ],
+            [
+              "3",
+              "[@Konctantin](https://github.com/Konctantin)/[**SpellWork**](https://github.com/Konctantin/SpellWork)",
+              "SpellWork",
+              ""
+            ],
+            [
+              "3",
+              "[@AntyaDev](https://github.com/AntyaDev)/[**Omnia**](https://github.com/AntyaDev/Omnia)",
+              "Omnia programming language",
+              ""
+            ],
+            [
+              "3",
+              "[@T-Alex](https://github.com/T-Alex)/[**Common**](https://github.com/T-Alex/Common)",
+              "Base class library for commonly occurring problems (PCL).",
+              ""
+            ],
+            [
+              "2",
+              "[@whyleee](https://github.com/whyleee)/[**vspte**](https://github.com/whyleee/vspte)",
+              "Visual Studio Project Template Exporter",
+              ""
+            ],
+            [
+              "2",
+              "[@vgamula](https://github.com/vgamula)/[**Bacterium**](https://github.com/vgamula/Bacterium)",
+              "Bacterium game",
+              ""
+            ],
+            [
+              "2",
+              "[@adoprog](https://github.com/adoprog)/[**Sitecore-Client-Even…**](https://github.com/adoprog/Sitecore-Client-Event-Tracker)",
+              "Sitecore Shared Source module for tracking JavaScript events to OMS / DMS",
+              "[:arrow_upper_right:](sitecoresnippets.blogspot.com)"
+            ],
+            [
+              "2",
+              "[@adoprog](https://github.com/adoprog)/[**Sitecore-Geo-Lite-Re…**](https://github.com/adoprog/Sitecore-Geo-Lite-Resolver)",
+              "GeoLiteResolver modifies conditional rendering \"Country Condition\" to use GeoLite database for instant country resolving.",
+              "[:arrow_upper_right:](sitecoresnippets.blogspot.com)"
+            ],
+            [
+              "2",
+              "[@sergeyshushlyapin](https://github.com/sergeyshushlyapin)/[**Sitecore.PipelineBas…**](https://github.com/sergeyshushlyapin/Sitecore.PipelineBasedProviders)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@titarenko](https://github.com/titarenko)/[**KenoRobot**](https://github.com/titarenko/KenoRobot)",
+              "Keno (Lottery) Player Model",
+              ""
+            ],
+            [
+              "2",
+              "[@T-Alex](https://github.com/T-Alex)/[**GameOfLife**](https://github.com/T-Alex/GameOfLife)",
+              "WPF realization of Conway's Game of Life.",
+              "[:arrow_upper_right:](http://talex-soft.com/projects/game_of_life)"
+            ],
+            [
+              "2",
+              "[@titarenko](https://github.com/titarenko)/[**HandyToolsAndExtensi…**](https://github.com/titarenko/HandyToolsAndExtensions)",
+              "A set of handy tools and extensions for .NET (C#).",
+              ""
+            ],
+            [
+              "2",
+              "[@T-Alex](https://github.com/T-Alex)/[**RssFeedGenerator**](https://github.com/T-Alex/RssFeedGenerator)",
+              "Generator of rss feed xml file.",
+              ""
+            ],
+            [
+              "2",
+              "[@titarenko](https://github.com/titarenko)/[**Cqrsnes**](https://github.com/titarenko/Cqrsnes)",
+              "CQRS And Event Sourcing Custom Infrastructure",
+              ""
+            ],
+            [
+              "2",
+              "[@T-Alex](https://github.com/T-Alex)/[**Mvvm**](https://github.com/T-Alex/Mvvm)",
+              "Lightweight MVVM framework for .NET (PCL).",
+              ""
+            ],
+            [
+              "2",
+              "[@AntyaDev](https://github.com/AntyaDev)/[**Talks**](https://github.com/AntyaDev/Talks)",
+              "Materials from recent talks",
+              ""
+            ],
+            [
+              "2",
+              "[@T-Alex](https://github.com/T-Alex)/[**PADGenerator**](https://github.com/T-Alex/PADGenerator)",
+              "PAD (portable application description) file generator library.",
+              ""
+            ],
+            [
+              "2",
+              "[@dimapasko](https://github.com/dimapasko)/[**GitIoSharp**](https://github.com/dimapasko/GitIoSharp)",
+              "C# wrapper for Git.io: GitHub URL Shortener",
               ""
             ]
           ]
