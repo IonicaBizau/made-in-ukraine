@@ -61,7 +61,8 @@
           "[Objective-C](#objective-c)",
           "[Perl](#perl)",
           "[PHP](#php)",
-          "[Python](#python)"
+          "[Python](#python)",
+          "[R](#r)"
         ]
       },
       {
@@ -3215,6 +3216,27 @@
               "2",
               "[@koder-ua](https://github.com/koder-ua)/[**megarepo**](https://github.com/koder-ua/megarepo)",
               "root repo to manage a lot of projects together",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "R #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "2",
+              "[@shumelchyk](https://github.com/shumelchyk)/[**RNeXML**](https://github.com/shumelchyk/RNeXML)",
+              "Implementing semantically rich NeXML I/O in R",
               ""
             ]
           ]
