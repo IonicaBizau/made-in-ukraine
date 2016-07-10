@@ -65,7 +65,8 @@
           "[R](#r)",
           "[Ruby](#ruby)",
           "[Scala](#scala)",
-          "[Shell](#shell)"
+          "[Shell](#shell)",
+          "[Swift](#swift)"
         ]
       },
       {
@@ -3783,6 +3784,39 @@
               "3",
               "[@pavel-v-chernykh](https://github.com/pavel-v-chernykh)/[**ansible-dotfiles**](https://github.com/pavel-v-chernykh/ansible-dotfiles)",
               "Ansible role for provisioning OS with dotfiles",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Swift #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "54",
+              "[@artemkrachulov](https://github.com/artemkrachulov)/[**AKMaskField**](https://github.com/artemkrachulov/AKMaskField)",
+              "Swift plugin which allow add mask to input field",
+              ""
+            ],
+            [
+              "14",
+              "[@artemkrachulov](https://github.com/artemkrachulov)/[**AKImageCropper**](https://github.com/artemkrachulov/AKImageCropper)",
+              "Responsive image cropper",
+              ""
+            ],
+            [
+              "2",
+              "[@dreymonde](https://github.com/dreymonde)/[**SwiftyNURE**](https://github.com/dreymonde/SwiftyNURE)",
+              "Swift framework for NURE API (CIST)",
               ""
             ]
           ]
