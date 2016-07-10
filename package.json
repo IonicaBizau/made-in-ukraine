@@ -52,7 +52,8 @@
           "[C](undefined)",
           "[C++](#c-2)",
           "[ActionScript](#actionscript)",
-          "[Clojure](#clojure)"
+          "[Clojure](#clojure)",
+          "[CoffeeScript](#coffeescript)"
         ]
       },
       {
@@ -1883,6 +1884,33 @@
               "2",
               "[@edbond](https://github.com/edbond)/[**asciipub**](https://github.com/edbond/asciipub)",
               "asciicasts to epub",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "CoffeeScript #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "4",
+              "[@ilyazub](https://github.com/ilyazub)/[**parse-psd**](https://github.com/ilyazub/parse-psd)",
+              "Node.js PSD parser",
+              ""
+            ],
+            [
+              "2",
+              "[@Sitin](https://github.com/Sitin)/[**coffee-mix**](https://github.com/Sitin/coffee-mix)",
+              "Mixins support for CoffeeScript.",
               ""
             ]
           ]
