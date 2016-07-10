@@ -51,7 +51,8 @@
           "[C#](#c-1)",
           "[C](undefined)",
           "[C++](#c-2)",
-          "[ActionScript](#actionscript)"
+          "[ActionScript](#actionscript)",
+          "[Clojure](#clojure)"
         ]
       },
       {
@@ -1855,6 +1856,33 @@
               "2",
               "[@alexandrratush](https://github.com/alexandrratush)/[**Android-Dialogs-ANE**](https://github.com/alexandrratush/Android-Dialogs-ANE)",
               "Android Dialogs ANE (Air Native Extension). AlertDialog, ProgressDialog",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Clojure #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "9",
+              "[@edbond](https://github.com/edbond)/[**CSRF**](https://github.com/edbond/CSRF)",
+              "ring-csrf example",
+              ""
+            ],
+            [
+              "2",
+              "[@edbond](https://github.com/edbond)/[**asciipub**](https://github.com/edbond/asciipub)",
+              "asciicasts to epub",
               ""
             ]
           ]
