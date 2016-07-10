@@ -49,7 +49,8 @@
           "[JavaScript](#javascript)",
           "[Java](#java)",
           "[C#](#c-1)",
-          "[C](undefined)"
+          "[C](undefined)",
+          "[C++](#c-2)"
         ]
       },
       {
@@ -1662,6 +1663,87 @@
               "[@sashao](https://github.com/sashao)/[**msp430robot**](https://github.com/sashao/msp430robot)",
               "Code for our launchpad based robot, sensors, sound, servo motors and dc motors usage",
               ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "C++ #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "307",
+              "[@BloodAxe](https://github.com/BloodAxe)/[**OpenCV-Tutorial**](https://github.com/BloodAxe/OpenCV-Tutorial)",
+              "A sample project demonstrating use of OpenCV library in iOS platform",
+              "[:arrow_upper_right:](http://computer-vision-talks.com/)"
+            ],
+            [
+              "208",
+              "[@BloodAxe](https://github.com/BloodAxe)/[**opencv-ios-template-…**](https://github.com/BloodAxe/opencv-ios-template-project)",
+              "Sample project for iOS configured to use OpenCV",
+              "[:arrow_upper_right:](computer-vision-talks.com)"
+            ],
+            [
+              "152",
+              "[@SergiusTheBest](https://github.com/SergiusTheBest)/[**plog**](https://github.com/SergiusTheBest/plog)",
+              "Portable, simple and extensible C++ logging library",
+              ""
+            ],
+            [
+              "83",
+              "[@BloodAxe](https://github.com/BloodAxe)/[**OpenCV-Features-Comp…**](https://github.com/BloodAxe/OpenCV-Features-Comparison)",
+              "A benchmark tool to compare OpenCV feature detection and descriptors extraction algorithms",
+              ""
+            ],
+            [
+              "18",
+              "[@BloodAxe](https://github.com/BloodAxe)/[**CloudCVBackend**](https://github.com/BloodAxe/CloudCVBackend)",
+              "A C++ backend module for CloudCV ",
+              ""
+            ],
+            [
+              "12",
+              "[@sopyer](https://github.com/sopyer)/[**ScintillaGL**](https://github.com/sopyer/ScintillaGL)",
+              "Port of scintilla text editing control to OpenGL. WIP!!!!",
+              ""
+            ],
+            [
+              "11",
+              "[@dennis714](https://github.com/dennis714)/[**DDFF**](https://github.com/dennis714/DDFF)",
+              "Duplicate Directories and Files Finder",
+              "[:arrow_upper_right:](http://yurichev.com/ddff.html)"
+            ],
+            [
+              "8",
+              "[@Alexei-Kornienko](https://github.com/Alexei-Kornienko)/[**Racing-Game**](https://github.com/Alexei-Kornienko/Racing-Game)",
+              "Simple racing game written on C++ using Irrlicht engine.",
+              ""
+            ],
+            [
+              "5",
+              "[@dennis714](https://github.com/dennis714)/[**ops_SIMD**](https://github.com/dennis714/ops_SIMD)",
+              "Oracle passwords (DES) solver",
+              ""
+            ],
+            [
+              "3",
+              "[@BloodAxe](https://github.com/BloodAxe)/[**nan-marshal**](https://github.com/BloodAxe/nan-marshal)",
+              "Data type marshalling for NAN module",
+              ""
+            ],
+            [
+              "3",
+              "[@dennis714](https://github.com/dennis714)/[**Copyfile**](https://github.com/dennis714/Copyfile)",
+              "Just copy file ignoring any error (including CRC32)",
+              "[:arrow_upper_right:](http://yurichev.com/copyfile.html)"
             ]
           ]
         }
