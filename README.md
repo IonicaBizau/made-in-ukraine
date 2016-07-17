@@ -227,7 +227,7 @@ $ npm i --save made-in-ukraine
 2 | [@berezovskyi](https://github.com/berezovskyi)/[**checkbleed**](https://github.com/berezovskyi/checkbleed) | Java command-line utility for batch URL checking for Heartbleed vulnerability |
 2 | [@laa](https://github.com/laa)/[**dou_rw_lock**](https://github.com/laa/dou_rw_lock) |  |
 2 | [@danylovolokh](https://github.com/danylovolokh)/[**PermissionsReference**](https://github.com/danylovolokh/PermissionsReference) | The purpose of this project is to create an exhaustive reference of methods that developers have to take into account while implementing Runtime Permissions in Android Marshmallow and higher. |
-### C# #
+### [C#](#c) #
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 331 | [@PavelTorgashov](https://github.com/PavelTorgashov)/[**FastColoredTextBox**](https://github.com/PavelTorgashov/FastColoredTextBox) | Fast Colored TextBox for Syntax Highlighting. The text editor component for .NET. |
@@ -275,9 +275,10 @@ $ npm i --save made-in-ukraine
 2 | [@AntyaDev](https://github.com/AntyaDev)/[**Talks**](https://github.com/AntyaDev/Talks) | Materials from recent talks |
 2 | [@T-Alex](https://github.com/T-Alex)/[**PADGenerator**](https://github.com/T-Alex/PADGenerator) | PAD (portable application description) file generator library. |
 2 | [@dimapasko](https://github.com/dimapasko)/[**GitIoSharp**](https://github.com/dimapasko/GitIoSharp) | C# wrapper for Git.io: GitHub URL Shortener |
-### C #
+### [C](#c-1) #
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
+347 | [@zserge](https://github.com/zserge)/[**jsmn**](https://github.com/zserge/jsmn) | minimalistic JSON parser in C |
 23 | [@sk1project](https://github.com/sk1project)/[**sk1-wx**](https://github.com/sk1project/sk1-wx) | sK1 2.0 multiplatform vector graphics editor |
 23 | [@mik9](https://github.com/mik9)/[**ThunderG-Kernel**](https://github.com/mik9/ThunderG-Kernel) | Kernel for Optimus p500 & Optimus p509 |
 22 | [@EarlGray](https://github.com/EarlGray)/[**SECD**](https://github.com/EarlGray/SECD) | Scheme on SECD |
