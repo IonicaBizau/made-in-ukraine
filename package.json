@@ -40,6 +40,7 @@
   },
   "homepage": "https://github.com/IonicaBizau/made-in-ukraine#readme",
   "blah": {
+    "title": "Made in Ukraine",
     "installation": [
       {
         "h2": "Contents"
