@@ -65,6 +65,7 @@
           "[Python](#python)",
           "[R](#r)",
           "[Ruby](#ruby)",
+          "[Rust](#rust)",
           "[Scala](#scala)",
           "[Shell](#shell)",
           "[Swift](#swift)",
@@ -3614,6 +3615,27 @@
               "[@galetahub](https://github.com/galetahub)/[**ballot_box**](https://github.com/galetahub/ballot_box)",
               "Votes, ratings via rack",
               ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Rust #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "903",
+              "[@tailhook](https://github.com/tailhook)/[**vagga**](https://github.com/tailhook/vagga)",
+              "Vagga is a containerization tool without daemons",
+              "[:arrow_upper_right:](https://vagga.readthedocs.io/en/latest/)"
             ]
           ]
         }
