@@ -32,6 +32,7 @@ $ npm i --save made-in-ukraine
  - [Python](#python)
  - [R](#r)
  - [Ruby](#ruby)
+ - [Rust](#rust)
  - [Scala](#scala)
  - [Shell](#shell)
  - [Swift](#swift)
@@ -639,6 +640,10 @@ $ npm i --save made-in-ukraine
 2 | [@aratak](https://github.com/aratak)/[**sql_views**](https://github.com/aratak/sql_views) | Adds support for using SQL views within ActiveRecord |
 2 | [@vessi](https://github.com/vessi)/[**rubymeditation3_yarv**](https://github.com/vessi/rubymeditation3_yarv) | RubyMeditation 3 materials for presentation |
 2 | [@galetahub](https://github.com/galetahub)/[**ballot_box**](https://github.com/galetahub/ballot_box) | Votes, ratings via rack |
+### Rust #
+:star2: | Name | Description | 🌍
+--- | --- | --- | ---
+903 | [@tailhook](https://github.com/tailhook)/[**vagga**](https://github.com/tailhook/vagga) | Vagga is a containerization tool without daemons | [:arrow_upper_right:](https://vagga.readthedocs.io/en/latest/)
 ### Scala #
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
