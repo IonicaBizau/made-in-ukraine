@@ -42,6 +42,7 @@ $ npm i --save made-in-ukraine
 ### JavaScript #
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
+7773 | [@legomushroom](https://github.com/legomushroom)/[**mojs**](https://github.com/legomushroom/mojs) | Motion graphics toolbelt for the web | [:arrow_upper_right:](http://mojs.io/)
 4447 | [@NeXTs](https://github.com/NeXTs)/[**Clusterize.js**](https://github.com/NeXTs/Clusterize.js) | Tiny vanilla JS plugin to display large data sets easily | [:arrow_upper_right:](https://clusterize.js.org)
 3139 | [@ipselon](https://github.com/ipselon)/[**structor**](https://github.com/ipselon/structor) | An advanced GUI editor for React | [:arrow_upper_right:](https://helmetrex.com)
 1726 | [@NeXTs](https://github.com/NeXTs)/[**Jets.js**](https://github.com/NeXTs/Jets.js) | Native CSS search engine | [:arrow_upper_right:](https://jets.js.org)
