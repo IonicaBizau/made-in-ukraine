@@ -1,7 +1,7 @@
 
 # Made in Ukraine
 
- [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![AMA](https://img.shields.io/badge/ask%20me-anything-1abc9c.svg)](https://github.com/IonicaBizau/ama) [![Version](https://img.shields.io/npm/v/made-in-ukraine.svg)](https://www.npmjs.com/package/made-in-ukraine) [![Downloads](https://img.shields.io/npm/dt/made-in-ukraine.svg)](https://www.npmjs.com/package/made-in-ukraine) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
+ [![Patreon](https://img.shields.io/badge/Support%20me%20on-Patreon-%23e6461a.svg)][paypal-donations] [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![AMA](https://img.shields.io/badge/ask%20me-anything-1abc9c.svg)](https://github.com/IonicaBizau/ama) [![Version](https://img.shields.io/npm/v/made-in-ukraine.svg)](https://www.npmjs.com/package/made-in-ukraine) [![Downloads](https://img.shields.io/npm/dt/made-in-ukraine.svg)](https://www.npmjs.com/package/made-in-ukraine) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
 > A list of neat projects made in Ukraine
 
@@ -42,8 +42,6 @@ $ npm i --save made-in-ukraine
 ### JavaScript #
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
-14808 | [@Leaflet](https://github.com/Leaflet)/[**Leaflet**](https://github.com/Leaflet/Leaflet) | JavaScript library for mobile-friendly interactive maps | [:arrow_upper_right:](http://leafletjs.com/)
-7773 | [@legomushroom](https://github.com/legomushroom)/[**mojs**](https://github.com/legomushroom/mojs) | Motion graphics toolbelt for the web | [:arrow_upper_right:](http://mojs.io/)
 4447 | [@NeXTs](https://github.com/NeXTs)/[**Clusterize.js**](https://github.com/NeXTs/Clusterize.js) | Tiny vanilla JS plugin to display large data sets easily | [:arrow_upper_right:](https://clusterize.js.org)
 3139 | [@ipselon](https://github.com/ipselon)/[**structor**](https://github.com/ipselon/structor) | An advanced GUI editor for React | [:arrow_upper_right:](https://helmetrex.com)
 1726 | [@NeXTs](https://github.com/NeXTs)/[**Jets.js**](https://github.com/NeXTs/Jets.js) | Native CSS search engine | [:arrow_upper_right:](https://jets.js.org)
@@ -230,7 +228,7 @@ $ npm i --save made-in-ukraine
 2 | [@berezovskyi](https://github.com/berezovskyi)/[**checkbleed**](https://github.com/berezovskyi/checkbleed) | Java command-line utility for batch URL checking for Heartbleed vulnerability |
 2 | [@laa](https://github.com/laa)/[**dou_rw_lock**](https://github.com/laa/dou_rw_lock) |  |
 2 | [@danylovolokh](https://github.com/danylovolokh)/[**PermissionsReference**](https://github.com/danylovolokh/PermissionsReference) | The purpose of this project is to create an exhaustive reference of methods that developers have to take into account while implementing Runtime Permissions in Android Marshmallow and higher. |
-### [C#](#c) #
+### C# #
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 331 | [@PavelTorgashov](https://github.com/PavelTorgashov)/[**FastColoredTextBox**](https://github.com/PavelTorgashov/FastColoredTextBox) | Fast Colored TextBox for Syntax Highlighting. The text editor component for .NET. |
@@ -278,10 +276,9 @@ $ npm i --save made-in-ukraine
 2 | [@AntyaDev](https://github.com/AntyaDev)/[**Talks**](https://github.com/AntyaDev/Talks) | Materials from recent talks |
 2 | [@T-Alex](https://github.com/T-Alex)/[**PADGenerator**](https://github.com/T-Alex/PADGenerator) | PAD (portable application description) file generator library. |
 2 | [@dimapasko](https://github.com/dimapasko)/[**GitIoSharp**](https://github.com/dimapasko/GitIoSharp) | C# wrapper for Git.io: GitHub URL Shortener |
-### [C](#c-1) #
+### C #
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
-347 | [@zserge](https://github.com/zserge)/[**jsmn**](https://github.com/zserge/jsmn) | minimalistic JSON parser in C |
 23 | [@sk1project](https://github.com/sk1project)/[**sk1-wx**](https://github.com/sk1project/sk1-wx) | sK1 2.0 multiplatform vector graphics editor |
 23 | [@mik9](https://github.com/mik9)/[**ThunderG-Kernel**](https://github.com/mik9/ThunderG-Kernel) | Kernel for Optimus p500 & Optimus p509 |
 22 | [@EarlGray](https://github.com/EarlGray)/[**SECD**](https://github.com/EarlGray/SECD) | Scheme on SECD |
@@ -727,11 +724,21 @@ A list of neat projects made in Ukraine
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
 
+## :moneybag: Donations
+
+Another way to support the development of my open-source modules is
+to [set up a recurring donation, via Patreon][patreon]. :rocket:
+
+[PayPal donations][paypal-donations] are appreciated too! Each dollar helps.
+
+Thanks! :heart:
+
 
 ## :scroll: License
 
 [MIT][license] © [Ionică Bizău][website]
 
+[patreon]: https://www.patreon.com/ionicabizau
 [paypal-donations]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RVXDDLKKLQRJW
 [donate-now]: http://i.imgur.com/6cMbHOC.png
 
