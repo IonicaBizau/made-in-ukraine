@@ -10,11 +10,16 @@
 ## :cloud: Installation
 
 ```sh
-$ npm i --save made-in-ukraine
+# Using npm
+npm install --save made-in-ukraine
+
+# Using yarn
+yarn add made-in-ukraine
 ```
 
 
 ## Contents
+
 
  - [JavaScript](#javascript)
  - [Java](#java)
@@ -42,6 +47,7 @@ $ npm i --save made-in-ukraine
  - [VimL](#viml)
 
 ### JavaScript #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 4447 | [@NeXTs](https://github.com/NeXTs)/[**Clusterize.js**](https://github.com/NeXTs/Clusterize.js) | Tiny vanilla JS plugin to display large data sets easily | [:arrow_upper_right:](https://clusterize.js.org)
@@ -145,7 +151,9 @@ $ npm i --save made-in-ukraine
 2 | [@programulya](https://github.com/programulya)/[**video-chat**](https://github.com/programulya/video-chat) | Video chat for two persons via WebRTC |
 2 | [@ghaiklor](https://github.com/ghaiklor)/[**sails-service-hash**](https://github.com/ghaiklor/sails-service-hash) | Service for Sails framework with Hash features |
 2 | [@sudodoki](https://github.com/sudodoki)/[**aleph-box**](https://github.com/sudodoki/aleph-box) | No backend javascript anything stubber aka Chance.js without all the parens |
+
 ### Java #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 3437 | [@makovkastar](https://github.com/makovkastar)/[**FloatingActionButton**](https://github.com/makovkastar/FloatingActionButton) | Android floating action button |
@@ -230,7 +238,9 @@ $ npm i --save made-in-ukraine
 2 | [@berezovskyi](https://github.com/berezovskyi)/[**checkbleed**](https://github.com/berezovskyi/checkbleed) | Java command-line utility for batch URL checking for Heartbleed vulnerability |
 2 | [@laa](https://github.com/laa)/[**dou_rw_lock**](https://github.com/laa/dou_rw_lock) |  |
 2 | [@danylovolokh](https://github.com/danylovolokh)/[**PermissionsReference**](https://github.com/danylovolokh/PermissionsReference) | The purpose of this project is to create an exhaustive reference of methods that developers have to take into account while implementing Runtime Permissions in Android Marshmallow and higher. |
+
 ### C# #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 331 | [@PavelTorgashov](https://github.com/PavelTorgashov)/[**FastColoredTextBox**](https://github.com/PavelTorgashov/FastColoredTextBox) | Fast Colored TextBox for Syntax Highlighting. The text editor component for .NET. |
@@ -278,7 +288,9 @@ $ npm i --save made-in-ukraine
 2 | [@AntyaDev](https://github.com/AntyaDev)/[**Talks**](https://github.com/AntyaDev/Talks) | Materials from recent talks |
 2 | [@T-Alex](https://github.com/T-Alex)/[**PADGenerator**](https://github.com/T-Alex/PADGenerator) | PAD (portable application description) file generator library. |
 2 | [@dimapasko](https://github.com/dimapasko)/[**GitIoSharp**](https://github.com/dimapasko/GitIoSharp) | C# wrapper for Git.io: GitHub URL Shortener |
+
 ### C #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 23 | [@sk1project](https://github.com/sk1project)/[**sk1-wx**](https://github.com/sk1project/sk1-wx) | sK1 2.0 multiplatform vector graphics editor |
@@ -312,7 +324,9 @@ $ npm i --save made-in-ukraine
 2 | [@PhoenixBlack](https://github.com/PhoenixBlack)/[**gm_turbostroi**](https://github.com/PhoenixBlack/gm_turbostroi) |  |
 2 | [@PhoenixBlack](https://github.com/PhoenixBlack)/[**X-Space**](https://github.com/PhoenixBlack/X-Space) | X-Space - aerospace simulation plugin that extends spaceflight capabilities of X-Plane flight simulator. |
 2 | [@sashao](https://github.com/sashao)/[**msp430robot**](https://github.com/sashao/msp430robot) | Code for our launchpad based robot, sensors, sound, servo motors and dc motors usage |
+
 ### C++ #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 307 | [@BloodAxe](https://github.com/BloodAxe)/[**OpenCV-Tutorial**](https://github.com/BloodAxe/OpenCV-Tutorial) | A sample project demonstrating use of OpenCV library in iOS platform | [:arrow_upper_right:](http://computer-vision-talks.com/)
@@ -326,7 +340,9 @@ $ npm i --save made-in-ukraine
 5 | [@dennis714](https://github.com/dennis714)/[**ops_SIMD**](https://github.com/dennis714/ops_SIMD) | Oracle passwords (DES) solver |
 3 | [@BloodAxe](https://github.com/BloodAxe)/[**nan-marshal**](https://github.com/BloodAxe/nan-marshal) | Data type marshalling for NAN module |
 3 | [@dennis714](https://github.com/dennis714)/[**Copyfile**](https://github.com/dennis714/Copyfile) | Just copy file ignoring any error (including CRC32) | [:arrow_upper_right:](http://yurichev.com/copyfile.html)
+
 ### ActionScript #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 8 | [@VirtualMaestro](https://github.com/VirtualMaestro)/[**BabyBox**](https://github.com/VirtualMaestro/BabyBox) | BabyBox Engine - component based game engine |
@@ -345,17 +361,23 @@ $ npm i --save made-in-ukraine
 3 | [@vymarkov](https://github.com/vymarkov)/[**NameCaseLib.ActionSc…**](https://github.com/vymarkov/NameCaseLib.ActionScript) |  |
 2 | [@Darkwing-Duck](https://github.com/Darkwing-Duck)/[**gdata-as3-client**](https://github.com/Darkwing-Duck/gdata-as3-client) | ActionScript gdata library for working with google speadsheets. |
 2 | [@alexandrratush](https://github.com/alexandrratush)/[**Android-Dialogs-ANE**](https://github.com/alexandrratush/Android-Dialogs-ANE) | Android Dialogs ANE (Air Native Extension). AlertDialog, ProgressDialog |
+
 ### Clojure #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 9 | [@edbond](https://github.com/edbond)/[**CSRF**](https://github.com/edbond/CSRF) | ring-csrf example |
 2 | [@edbond](https://github.com/edbond)/[**asciipub**](https://github.com/edbond/asciipub) | asciicasts to epub |
+
 ### CoffeeScript #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 4 | [@ilyazub](https://github.com/ilyazub)/[**parse-psd**](https://github.com/ilyazub/parse-psd) | Node.js PSD parser |
 2 | [@Sitin](https://github.com/Sitin)/[**coffee-mix**](https://github.com/Sitin/coffee-mix) | Mixins support for CoffeeScript. |
+
 ### Go #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 26 | [@iu0v1](https://github.com/iu0v1)/[**gelada**](https://github.com/iu0v1/gelada) | Go (golang) middleware package, which provides a tool for HTTP session authentication control (via cookie) |
@@ -370,7 +392,9 @@ $ npm i --save made-in-ukraine
 2 | [@DLag](https://github.com/DLag)/[**go-poolhandler**](https://github.com/DLag/go-poolhandler) | Pool manager and counter for Golang net/http handler  |
 2 | [@vchimishuk](https://github.com/vchimishuk)/[**id3tag-go**](https://github.com/vchimishuk/id3tag-go) | id3tag is a Go wrapper around C libid3tag library |
 2 | [@vchimishuk](https://github.com/vchimishuk)/[**cue-go**](https://github.com/vchimishuk/cue-go) | Go cue parser package |
+
 ### Haskell #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 10 | [@esmolanka](https://github.com/esmolanka)/[**sexp-grammar**](https://github.com/esmolanka/sexp-grammar) | Invertible syntax for serializing and deserializing Haskell structures from S-expressions |
@@ -378,7 +402,9 @@ $ npm i --save made-in-ukraine
 2 | [@esmolanka](https://github.com/esmolanka)/[**icfpc2014**](https://github.com/esmolanka/icfpc2014) | ICFPC2014 / Cofree Coriders team |
 2 | [@vasylp](https://github.com/vasylp)/[**serialtalk**](https://github.com/vasylp/serialtalk) | A tiny haskell utility that works similar to minicom runscript but with better logging and control |
 2 | [@vasylp](https://github.com/vasylp)/[**hgettext**](https://github.com/vasylp/hgettext) | hgettext a simple wrapper to libintl and gettext to provide localization in Haskell applications |
+
 ### Lua #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 219 | [@stobenski](https://github.com/stobenski)/[**pro**](https://github.com/stobenski/pro) | Awesome Pro themes |
@@ -389,11 +415,15 @@ $ npm i --save made-in-ukraine
 11 | [@alexander-yakushev](https://github.com/alexander-yakushev)/[**menubar**](https://github.com/alexander-yakushev/menubar) | DEPRECATED: Dmenu-like menu extension for Awesome WM |
 9 | [@alexander-yakushev](https://github.com/alexander-yakushev)/[**infojets**](https://github.com/alexander-yakushev/infojets) | Specific widget library for Awesome WM |
 3 | [@Fkids](https://github.com/Fkids)/[**JC2MP-ExtraSeats**](https://github.com/Fkids/JC2MP-ExtraSeats) | Implementation of additional vehicle seats for JC2MP. |
+
 ### Matlab #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 4 | [@abill](https://github.com/abill)/[**DeBlur**](https://github.com/abill/DeBlur) | motion blur healing matlab project |
+
 ### Objective-C #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 995 | [@ArtFeel](https://github.com/ArtFeel)/[**AFViewShaker**](https://github.com/ArtFeel/AFViewShaker) |  |
@@ -424,7 +454,9 @@ $ npm i --save made-in-ukraine
 2 | [@alco](https://github.com/alco)/[**objc.string**](https://github.com/alco/objc.string) | Self-contained library for efficient string manipulation in Objective-C.  | [:arrow_upper_right:](http://alco.github.com/objc.string)
 2 | [@dodikk](https://github.com/dodikk)/[**iFeatureAvailability**](https://github.com/dodikk/iFeatureAvailability) | A wrapper around UIDevice to check whether certain iOS features are available. |
 2 | [@dodikk](https://github.com/dodikk)/[**MotionBlocks**](https://github.com/dodikk/MotionBlocks) | Some convenience methods to invoke native ObjC blocks from the Ruby code |
+
 ### Perl #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 12 | [@und3f](https://github.com/und3f)/[**protocol-redis**](https://github.com/und3f/protocol-redis) | Redis protocol messages parser/encoder | [:arrow_upper_right:](http://metacpan.org/module/Protocol::Redis)
@@ -455,7 +487,9 @@ $ npm i --save made-in-ukraine
 2 | [@alistratov](https://github.com/alistratov)/[**ali-public**](https://github.com/alistratov/ali-public) | Public libraries |
 2 | [@und3f](https://github.com/und3f)/[**anyevent-ping**](https://github.com/und3f/anyevent-ping) | Asynchronous ping with AnyEvent |
 2 | [@cub-uanic](https://github.com/cub-uanic)/[**Catalyst-Controller-…**](https://github.com/cub-uanic/Catalyst-Controller-DBIC-API) | fork of git://git.shadowcat.co.uk/catagits/Catal… |
+
 ### PHP #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 608 | [@trntv](https://github.com/trntv)/[**yii2-starter-kit**](https://github.com/trntv/yii2-starter-kit) | Yii2 Starter Kit | [:arrow_upper_right:](http://yii2-starter-kit.terentev.net)
@@ -511,7 +545,9 @@ $ npm i --save made-in-ukraine
 2 | [@DavertMik](https://github.com/DavertMik)/[**WebDriverDemos**](https://github.com/DavertMik/WebDriverDemos) | Comparison of PHP webdriver clients: instaclick/facebook/phpunit |
 2 | [@DavertMik](https://github.com/DavertMik)/[**doStaticPagePlugin**](https://github.com/DavertMik/doStaticPagePlugin) | A very basic symfony CMS for projects where you need only 2-3 static pages |
 2 | [@trntv](https://github.com/trntv)/[**systeminfo**](https://github.com/trntv/systeminfo) | Simple system information helper |
+
 ### Python #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 1974 | [@kachayev](https://github.com/kachayev)/[**fn.py**](https://github.com/kachayev/fn.py) | Functional programming in Python: implementation of missing features to enjoy FP |
@@ -575,11 +611,15 @@ $ npm i --save made-in-ukraine
 2 | [@koder-ua](https://github.com/koder-ua)/[**python_deps**](https://github.com/koder-ua/python_deps) |  |
 2 | [@msoedov](https://github.com/msoedov)/[**baguette**](https://github.com/msoedov/baguette) |  |
 2 | [@koder-ua](https://github.com/koder-ua)/[**megarepo**](https://github.com/koder-ua/megarepo) | root repo to manage a lot of projects together |
+
 ### R #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 2 | [@shumelchyk](https://github.com/shumelchyk)/[**RNeXML**](https://github.com/shumelchyk/RNeXML) | Implementing semantically rich NeXML I/O in R |
+
 ### Ruby #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 1542 | [@galetahub](https://github.com/galetahub)/[**ckeditor**](https://github.com/galetahub/ckeditor) | Ckeditor integration gem for rails | [:arrow_upper_right:](http://ckeditor.com/)
@@ -641,11 +681,15 @@ $ npm i --save made-in-ukraine
 2 | [@aratak](https://github.com/aratak)/[**sql_views**](https://github.com/aratak/sql_views) | Adds support for using SQL views within ActiveRecord |
 2 | [@vessi](https://github.com/vessi)/[**rubymeditation3_yarv**](https://github.com/vessi/rubymeditation3_yarv) | RubyMeditation 3 materials for presentation |
 2 | [@galetahub](https://github.com/galetahub)/[**ballot_box**](https://github.com/galetahub/ballot_box) | Votes, ratings via rack |
+
 ### Rust #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 903 | [@tailhook](https://github.com/tailhook)/[**vagga**](https://github.com/tailhook/vagga) | Vagga is a containerization tool without daemons | [:arrow_upper_right:](https://vagga.readthedocs.io/en/latest/)
+
 ### Scala #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 109 | [@rssh](https://github.com/rssh)/[**scala-gopher**](https://github.com/rssh/scala-gopher) | Implementation of CSP constructors (Communication Sequence Process, i.e. go-like channels) in scala |
@@ -666,7 +710,9 @@ $ npm i --save made-in-ukraine
 2 | [@intracer](https://github.com/intracer)/[**wlxjury**](https://github.com/intracer/wlxjury) |  | [:arrow_upper_right:](https://commons.wikimedia.org/wiki/Commons:WLX_Jury_Tool)
 2 | [@sonenko](https://github.com/sonenko)/[**elastic-helper**](https://github.com/sonenko/elastic-helper) | additional functions for elastic4s and simple migration system |
 2 | [@sonenko](https://github.com/sonenko)/[**logical-parser**](https://github.com/sonenko/logical-parser) |  |
+
 ### Shell #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 40 | [@zserge](https://github.com/zserge)/[**buckbone**](https://github.com/zserge/buckbone) | A simple android project generator for the Buck build system |
@@ -675,17 +721,23 @@ $ npm i --save made-in-ukraine
 4 | [@zserge](https://github.com/zserge)/[**mucks**](https://github.com/zserge/mucks) | A tiny terminal session manager for Tmux, Screen and DVTM |
 3 | [@vaxXxa](https://github.com/vaxXxa)/[**dotfiles**](https://github.com/vaxXxa/dotfiles) | ~ |
 3 | [@pavel-v-chernykh](https://github.com/pavel-v-chernykh)/[**ansible-dotfiles**](https://github.com/pavel-v-chernykh/ansible-dotfiles) | Ansible role for provisioning OS with dotfiles |
+
 ### Swift #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 54 | [@artemkrachulov](https://github.com/artemkrachulov)/[**AKMaskField**](https://github.com/artemkrachulov/AKMaskField) | Swift plugin which allow add mask to input field |
 14 | [@artemkrachulov](https://github.com/artemkrachulov)/[**AKImageCropper**](https://github.com/artemkrachulov/AKImageCropper) | Responsive image cropper |
 2 | [@dreymonde](https://github.com/dreymonde)/[**SwiftyNURE**](https://github.com/dreymonde/SwiftyNURE) | Swift framework for NURE API (CIST) |
+
 ### TeX #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 2 | [@slowli](https://github.com/slowli)/[**software-engineering…**](https://github.com/slowli/software-engineering-lectures) | Лекции по программной инженерии |
+
 ### VimL #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 64 | [@tikhomirov](https://github.com/tikhomirov)/[**vim-glsl**](https://github.com/tikhomirov/vim-glsl) | Vim runtime files for OpenGL Shading Language |
@@ -697,6 +749,7 @@ $ npm i --save made-in-ukraine
 4 | [@ulidtko](https://github.com/ulidtko)/[**versioned-configs**](https://github.com/ulidtko/versioned-configs) | Naming dotfiles as "versioned-configs" before it was cool |
 3 | [@kasyaar](https://github.com/kasyaar)/[**vim_config**](https://github.com/kasyaar/vim_config) | vim config for true erlang, js, clojure developers with plugin manager, syntax checkers, project tree, git integration and so on |
 2 | [@troydm](https://github.com/troydm)/[**dotvim**](https://github.com/troydm/dotvim) | my vim configuration |
+
 
 ## :clipboard: Example
 
@@ -716,7 +769,9 @@ There are few ways to get help:
 
  1. Please [post questions on Stack Overflow](https://stackoverflow.com/questions/ask). You can open issues with questions, as long you add a link to your Stack Overflow question.
  2. For bug reports and feature requests, open issues. :bug:
+
  3. For direct and quick help, you can [use Codementor](https://www.codementor.io/johnnyb). :rocket:
+
 
 
 ## :memo: Documentation
