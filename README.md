@@ -546,7 +546,6 @@ yarn add made-in-ukraine
 2 | [@makasim](https://github.com/makasim)/[**fpBackupPlugin**](https://github.com/makasim/fpBackupPlugin) | Make backuping of mysql db easy. |
 2 | [@DavertMik](https://github.com/DavertMik)/[**WebDriverDemos**](https://github.com/DavertMik/WebDriverDemos) | Comparison of PHP webdriver clients: instaclick/facebook/phpunit |
 2 | [@DavertMik](https://github.com/DavertMik)/[**doStaticPagePlugin**](https://github.com/DavertMik/doStaticPagePlugin) | A very basic symfony CMS for projects where you need only 2-3 static pages |
-2 | [@trntv](https://github.com/trntv)/[**systeminfo**](https://github.com/trntv/systeminfo) | Simple system information helper |
 
 ### Python #
 
