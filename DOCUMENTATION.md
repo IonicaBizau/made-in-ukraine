@@ -7,8 +7,8 @@ A list of neat projects made in Ukraine
 
 #### Params
 
-- **Number** `a`: Param description.
-- **Number** `b`: Param description.
+- **Number** `a`: Param descrpition.
+- **Number** `b`: Param descrpition.
 
 #### Return
 - **Number** Return description.
